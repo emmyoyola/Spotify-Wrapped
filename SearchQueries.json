@@ -1,819 +1,6 @@
 [
   {
     "platform" : "ANDROID",
-    "searchTime" : "2024-08-24T16:05:09.209Z[UTC]",
-    "searchQuery" : "cora",
-    "searchInteractionURIs" : [
-      "spotify:track:0wQCKR9OFjYu5Kzrk7WivJ"
-    ]
-  },
-  {
-    "platform" : "ANDROID_ARM",
-    "searchTime" : "2024-08-24T20:33:37.458Z[UTC]",
-    "searchQuery" : "brindo",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-08-24T20:33:38.472Z[UTC]",
-    "searchQuery" : "brindo co",
-    "searchInteractionURIs" : [
-      "spotify:track:0VazBorrrrE0vlacDVRQCx"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-08-28T01:41:52.227Z[UTC]",
-    "searchQuery" : "rizz",
-    "searchInteractionURIs" : [
-      "spotify:artist:2jOm3cYujQx6o1dxuiuqaX"
-    ]
-  },
-  {
-    "platform" : "ANDROID_ARM",
-    "searchTime" : "2024-08-30T19:44:52.795Z[UTC]",
-    "searchQuery" : "lo",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-08-30T19:44:59.157Z[UTC]",
-    "searchQuery" : "love me  love me",
-    "searchInteractionURIs" : [
-      "spotify:search:love+me+love+me+say+that+you+love+me"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-08-30T19:45:01.373Z[UTC]",
-    "searchQuery" : "love me love me say that you love me",
-    "searchInteractionURIs" : [
-      "spotify:track:7aQjPecQdIuNd1sz3KCDhD",
-      "spotify:track:2qSkIjg1o9h3YT9RAgYN75"
-    ]
-  },
-  {
-    "platform" : "ANDROID_ARM",
-    "searchTime" : "2024-09-05T16:04:59.046Z[UTC]",
-    "searchQuery" : "l",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-05T16:05:01.480Z[UTC]",
-    "searchQuery" : "lovef",
-    "searchInteractionURIs" : [
-      "spotify:track:7aQjPecQdIuNd1sz3KCDhD"
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-06T18:07:54.915Z[UTC]",
-    "searchQuery" : "no ",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-06T18:07:59.859Z[UTC]",
-    "searchQuery" : "no hace fal",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-06T18:13:24.171Z[UTC]",
-    "searchQuery" : "no hace falta su",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-06T21:33:42.571Z[UTC]",
-    "searchQuery" : "t",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-06T21:33:45.268Z[UTC]",
-    "searchQuery" : "tu fal",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-06T21:39:35.066Z[UTC]",
-    "searchQuery" : "se",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-06T21:39:36.337Z[UTC]",
-    "searchQuery" : "secret",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-06T21:39:43.427Z[UTC]",
-    "searchQuery" : "secreto ",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-06T21:39:44.321Z[UTC]",
-    "searchQuery" : "secreto de",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-07T14:21:05.731Z[UTC]",
-    "searchQuery" : "Justin ",
-    "searchInteractionURIs" : [
-      "spotify:search:justin+bieber"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-07T14:21:11.864Z[UTC]",
-    "searchQuery" : "justin bieber love",
-    "searchInteractionURIs" : [
-      "spotify:search:justin+bieber+love+me"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-07T14:21:14.034Z[UTC]",
-    "searchQuery" : "justin bieber love me",
-    "searchInteractionURIs" : [
-      "spotify:track:0yIywEquxORnu1dR0WYsdN"
-    ]
-  },
-  {
-    "platform" : "ANDROID_ARM",
-    "searchTime" : "2024-09-08T16:37:35.041Z[UTC]",
-    "searchQuery" : "sin miedo",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID_ARM",
-    "searchTime" : "2024-09-08T16:37:35.616Z[UTC]",
-    "searchQuery" : "sin miedo a ",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-08T16:37:36.595Z[UTC]",
-    "searchQuery" : "sin miedo a nada",
-    "searchInteractionURIs" : [
-      "spotify:track:02bKaAG61tMw9c63fzKXal"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-09T15:31:53.466Z[UTC]",
-    "searchQuery" : "drkk",
-    "searchInteractionURIs" : [
-      "spotify:search:dekko"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-09T15:31:56.331Z[UTC]",
-    "searchQuery" : "dekko",
-    "searchInteractionURIs" : [
-      "spotify:playlist:37i9dQZF1DZ06evO48n7LW",
-      "spotify:track:0gmZhxA8E5rDXUSwODW9X7"
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-11T19:13:32.246Z[UTC]",
-    "searchQuery" : "venga",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-11T19:13:33.054Z[UTC]",
-    "searchQuery" : "vengase",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-11T19:14:12.275Z[UTC]",
-    "searchQuery" : "vengase ",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID_ARM",
-    "searchTime" : "2024-09-14T02:50:06.278Z[UTC]",
-    "searchQuery" : "pr",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-14T02:50:07.847Z[UTC]",
-    "searchQuery" : "pride",
-    "searchInteractionURIs" : [
-      "spotify:search:pride+and+prejudice"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-14T02:50:10.866Z[UTC]",
-    "searchQuery" : "pride and prejudice",
-    "searchInteractionURIs" : [
-      "spotify:episode:2EgRvMGD39S5b3RXj6vefR",
-      "spotify:episode:2EgRvMGD39S5b3RXj6vefR"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-14T02:51:10.861Z[UTC]",
-    "searchQuery" : "audio",
-    "searchInteractionURIs" : [
-      "spotify:search:audiolibros+completos"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-14T02:51:13.132Z[UTC]",
-    "searchQuery" : "audiolibros completos",
-    "searchInteractionURIs" : [
-      "spotify:playlist:1ucjdxwIR85VmdBBPv9lUd",
-      "spotify:playlist:1WgUFZVYgmjMPOjgZ8ijy6",
-      "spotify:playlist:37i9dQZF1DWVfM4SvitJPy"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-18T19:06:47.920Z[UTC]",
-    "searchQuery" : "te acuer",
-    "searchInteractionURIs" : [
-      "spotify:search:%C2%BFte+acuerdas%3F"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-18T19:06:49.642Z[UTC]",
-    "searchQuery" : "¿te acuerdas?",
-    "searchInteractionURIs" : [
-      "spotify:track:24W3TRRjJ8FqyP88bTtAm9"
-    ]
-  },
-  {
-    "platform" : "ANDROID_ARM",
-    "searchTime" : "2024-09-19T16:20:13.473Z[UTC]",
-    "searchQuery" : "co",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-19T16:20:21.014Z[UTC]",
-    "searchQuery" : "corazonc",
-    "searchInteractionURIs" : [
-      "spotify:track:5I76YtdZkFQReVgKppRd78"
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-23T21:42:33.925Z[UTC]",
-    "searchQuery" : "au",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-23T21:42:38.464Z[UTC]",
-    "searchQuery" : "aunque se",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-25T21:03:56.693Z[UTC]",
-    "searchQuery" : "au",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-09-25T21:03:58.152Z[UTC]",
-    "searchQuery" : "aunque sea ",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-26T23:26:59.886Z[UTC]",
-    "searchQuery" : "may",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-26T23:26:59.960Z[UTC]",
-    "searchQuery" : "may",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-26T23:27:00.817Z[UTC]",
-    "searchQuery" : "mayou",
-    "searchInteractionURIs" : [
-      "spotify:search:mayor+que+yo"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-26T23:27:02.870Z[UTC]",
-    "searchQuery" : "mayor que yo",
-    "searchInteractionURIs" : [
-      "spotify:track:0yy6SegPRLQU03ftqy8w6L",
-      "spotify:track:6jFePuv1qQp5k847XSZsgi"
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-26T23:27:23.583Z[UTC]",
-    "searchQuery" : "mayor que yo",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-26T23:28:16.882Z[UTC]",
-    "searchQuery" : "mayor que yo wisin & yandel",
-    "searchInteractionURIs" : [
-      "spotify:track:0yy6SegPRLQU03ftqy8w6L"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-26T23:29:14.739Z[UTC]",
-    "searchQuery" : "this is wis",
-    "searchInteractionURIs" : [
-      "spotify:search:this+is+wisin+yandel"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-26T23:29:17.003Z[UTC]",
-    "searchQuery" : "this is wisin yandel",
-    "searchInteractionURIs" : [
-      "spotify:playlist:37i9dQZF1DZ06evO0QGhEs"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-27T00:36:32.867Z[UTC]",
-    "searchQuery" : "hace ",
-    "searchInteractionURIs" : [
-      "spotify:track:7G0Z77RdBTdf4bt45AL6yS",
-      "spotify:track:7G0Z77RdBTdf4bt45AL6yS"
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-27T00:36:46.039Z[UTC]",
-    "searchQuery" : "f",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-27T00:36:46.133Z[UTC]",
-    "searchQuery" : "f",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-27T00:36:54.530Z[UTC]",
-    "searchQuery" : "Fonseca arr",
-    "searchInteractionURIs" : [
-      "spotify:track:3YiF4GqPHrifMDhn7mUnD1"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-27T00:37:17.599Z[UTC]",
-    "searchQuery" : "Fonseca an",
-    "searchInteractionURIs" : [
-      "spotify:search:fonseca+y+andres+cepeda"
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-27T00:37:29.171Z[UTC]",
-    "searchQuery" : "fonseca y andres ceped",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-27T00:37:29.174Z[UTC]",
-    "searchQuery" : "fonseca y andres ceped",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-27T00:37:29.254Z[UTC]",
-    "searchQuery" : "fonseca y andres cep",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-27T00:37:29.328Z[UTC]",
-    "searchQuery" : "fonseca y andres cep",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-27T00:37:29.373Z[UTC]",
-    "searchQuery" : "fonseca y andres ",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-27T00:37:29.380Z[UTC]",
-    "searchQuery" : "fonseca y andres ",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-09-27T00:37:35.200Z[UTC]",
-    "searchQuery" : "fonseca y sa",
-    "searchInteractionURIs" : [
-      "spotify:track:1r2AItkfIjx2wjAGzko3qQ"
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-30T19:11:09.287Z[UTC]",
-    "searchQuery" : "bt",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-30T19:11:09.541Z[UTC]",
-    "searchQuery" : "btr",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-30T19:11:09.566Z[UTC]",
-    "searchQuery" : "bt",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-09-30T19:11:09.816Z[UTC]",
-    "searchQuery" : "btr",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-10-01T17:12:55.835Z[UTC]",
-    "searchQuery" : "spell",
-    "searchInteractionURIs" : [
-      "spotify:track:2L6QRccSHAsdZDc9gz6Bfi"
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-01T17:24:39.996Z[UTC]",
-    "searchQuery" : "carito",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-01T17:24:40.253Z[UTC]",
-    "searchQuery" : "carito",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-10-01T21:13:06.251Z[UTC]",
-    "searchQuery" : "yami",
-    "searchInteractionURIs" : [
-      "spotify:artist:4RWJOoYwgF978LOn8Fainp",
-      "spotify:track:6jxwnoSEnnhmPWqCylbyEH",
-      "spotify:search:yami+safdie"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-10-01T21:14:12.710Z[UTC]",
-    "searchQuery" : "yami safdie",
-    "searchInteractionURIs" : [
-      "spotify:search:yami+safdie+en+otra+vida"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-10-01T21:14:14.515Z[UTC]",
-    "searchQuery" : "yami safdie en otra vida",
-    "searchInteractionURIs" : [
-      "spotify:playlist:7l6vYi31SWDXOmSWaO2kBA"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-10-02T01:56:35.889Z[UTC]",
-    "searchQuery" : "yami safdie",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T18:22:30.818Z[UTC]",
-    "searchQuery" : "bolerito",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T18:22:30.819Z[UTC]",
-    "searchQuery" : "bo",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T18:22:30.830Z[UTC]",
-    "searchQuery" : "boleri",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T18:22:30.831Z[UTC]",
-    "searchQuery" : "bole",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T18:22:30.833Z[UTC]",
-    "searchQuery" : "bol",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T18:22:31.049Z[UTC]",
-    "searchQuery" : "bol",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T18:22:31.051Z[UTC]",
-    "searchQuery" : "bole",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T18:22:31.061Z[UTC]",
-    "searchQuery" : "boleri",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T18:22:31.095Z[UTC]",
-    "searchQuery" : "bolerito",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T18:22:31.106Z[UTC]",
-    "searchQuery" : "bo",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-10-02T19:01:13.883Z[UTC]",
-    "searchQuery" : "no",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T19:01:13.958Z[UTC]",
-    "searchQuery" : "no",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T19:01:13.996Z[UTC]",
-    "searchQuery" : "no ",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T19:01:14.217Z[UTC]",
-    "searchQuery" : "no ",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T19:01:14.793Z[UTC]",
-    "searchQuery" : "no no",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T19:01:14.973Z[UTC]",
-    "searchQuery" : "no no",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T19:01:15.414Z[UTC]",
-    "searchQuery" : "no nos",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T19:01:15.589Z[UTC]",
-    "searchQuery" : "no nos",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T19:01:16.745Z[UTC]",
-    "searchQuery" : "no nos s",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T19:01:17.075Z[UTC]",
-    "searchQuery" : "no nos s",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "WIN32_X86_64",
-    "searchTime" : "2024-10-02T19:01:17.670Z[UTC]",
-    "searchQuery" : "no nos so",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T19:01:17.759Z[UTC]",
-    "searchQuery" : "no nos so",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T19:01:17.804Z[UTC]",
-    "searchQuery" : "no nos sobr",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T19:01:18.135Z[UTC]",
-    "searchQuery" : "no nos sobr",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T19:01:18.616Z[UTC]",
-    "searchQuery" : "no nos sobra",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-02T19:01:18.873Z[UTC]",
-    "searchQuery" : "no nos sobra",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-10-03T15:07:40.820Z[UTC]",
-    "searchQuery" : "dime tu",
-    "searchInteractionURIs" : [
-      "spotify:track:6z8sQFj47s9ZG0Ls1k9Gct"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-10-03T16:11:37.841Z[UTC]",
-    "searchQuery" : "dime tu",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-03T19:37:04.728Z[UTC]",
-    "searchQuery" : "summer n",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-03T19:37:04.982Z[UTC]",
-    "searchQuery" : "summer n",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-03T19:37:05.565Z[UTC]",
-    "searchQuery" : "summer ni",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-03T19:37:05.770Z[UTC]",
-    "searchQuery" : "summer ni",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-03T19:37:05.809Z[UTC]",
-    "searchQuery" : "summer nig",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-03T19:37:06.124Z[UTC]",
-    "searchQuery" : "summer nig",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-03T19:37:07.443Z[UTC]",
-    "searchQuery" : "summer night",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "",
-    "searchTime" : "2024-10-03T19:37:07.771Z[UTC]",
-    "searchQuery" : "summer night",
-    "searchInteractionURIs" : [
-    ]
-  },
-  {
-    "platform" : "ANDROID",
-    "searchTime" : "2024-10-07T18:09:48.710Z[UTC]",
-    "searchQuery" : "como a",
-    "searchInteractionURIs" : [
-      "spotify:track:47dHahTMKID6gjd5k7lB8N"
-    ]
-  },
-  {
-    "platform" : "ANDROID",
     "searchTime" : "2024-10-11T02:08:56.184Z[UTC]",
     "searchQuery" : "un beso de desa",
     "searchInteractionURIs" : [
@@ -3204,6 +2391,5514 @@
     "searchQuery" : "tabb",
     "searchInteractionURIs" : [
       "spotify:track:3aUySszCHEifnEOqm0nCKr"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-21T13:26:43.889Z[UTC]",
+    "searchQuery" : "de",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-21T13:26:43.988Z[UTC]",
+    "searchQuery" : "de",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2024-11-21T13:26:44.166Z[UTC]",
+    "searchQuery" : "d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-11-21T13:26:45.375Z[UTC]",
+    "searchQuery" : "desde",
+    "searchInteractionURIs" : [
+      "spotify:track:2DZ66IRklQUZ4SFLS18dym"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-11-21T22:34:40.484Z[UTC]",
+    "searchQuery" : "woo",
+    "searchInteractionURIs" : [
+      "spotify:artist:5LHu1iF8m0XtRBEJbbwSoo"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-11-21T22:35:08.839Z[UTC]",
+    "searchQuery" : "the r",
+    "searchInteractionURIs" : [
+      "spotify:artist:5na1LmEmK2VzNLje9snJYW",
+      "spotify:artist:5na1LmEmK2VzNLje9snJYW"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-26T20:50:14.214Z[UTC]",
+    "searchQuery" : "1",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-26T20:50:14.269Z[UTC]",
+    "searchQuery" : "1u",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-26T20:50:14.400Z[UTC]",
+    "searchQuery" : "1",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-26T20:50:14.436Z[UTC]",
+    "searchQuery" : "1u",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-26T20:50:14.723Z[UTC]",
+    "searchQuery" : "1",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-26T20:50:14.809Z[UTC]",
+    "searchQuery" : "1",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-26T20:50:15.566Z[UTC]",
+    "searchQuery" : "q",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-26T20:50:15.748Z[UTC]",
+    "searchQuery" : "q",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2024-11-26T20:50:16.018Z[UTC]",
+    "searchQuery" : "qui",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-11-26T20:50:19.638Z[UTC]",
+    "searchQuery" : "quien sera",
+    "searchInteractionURIs" : [
+      "spotify:track:1sn6fQOhQtD4ssL621D2ZO",
+      "spotify:track:5sVxFYDDEIgBFnvh2K7OcQ",
+      "spotify:track:3TN4uSD85PWwV9hXzU6ARg"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-27T01:16:15.476Z[UTC]",
+    "searchQuery" : "zoombi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-27T01:16:15.587Z[UTC]",
+    "searchQuery" : "zoombi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-27T01:16:15.706Z[UTC]",
+    "searchQuery" : "zombi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-11-27T01:16:19.872Z[UTC]",
+    "searchQuery" : "zoombie po",
+    "searchInteractionURIs" : [
+      "spotify:track:5zhMMVw097YOSvT0oDGgDV"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-11-27T02:10:07.905Z[UTC]",
+    "searchQuery" : "cl",
+    "searchInteractionURIs" : [
+      "spotify:artist:0tzSBCPJZmHTdOA3ZV2mN3"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-11-27T02:10:51.929Z[UTC]",
+    "searchQuery" : "cl 5",
+    "searchInteractionURIs" : [
+      "spotify:search:cl+5+star"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-11-27T02:10:56.167Z[UTC]",
+    "searchQuery" : "cl 5 star",
+    "searchInteractionURIs" : [
+      "spotify:track:0pZYTeHCXSiWT4tVEyhCes"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-11-27T17:46:10.726Z[UTC]",
+    "searchQuery" : "apt",
+    "searchInteractionURIs" : [
+      "spotify:track:5vNRhkKd0yEAg8suGBpjeY"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-29T16:19:16.391Z[UTC]",
+    "searchQuery" : "down to the ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-29T16:19:16.434Z[UTC]",
+    "searchQuery" : "down to the ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-11-29T16:19:20.925Z[UTC]",
+    "searchQuery" : "down to the floor ",
+    "searchInteractionURIs" : [
+      "spotify:playlist:46rZtPSf5mYZ6l7iKQrZtd"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-29T16:21:46.498Z[UTC]",
+    "searchQuery" : "w",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-29T16:21:46.571Z[UTC]",
+    "searchQuery" : "w",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-11-29T16:21:49.203Z[UTC]",
+    "searchQuery" : "winter",
+    "searchInteractionURIs" : [
+      "spotify:search:winter+ahead"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-11-29T16:21:50.471Z[UTC]",
+    "searchQuery" : "winter ahead",
+    "searchInteractionURIs" : [
+      "spotify:album:4sfwHIxFU5kcDqSdMENQsy"
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-11-30T20:14:49.376Z[UTC]",
+    "searchQuery" : "here",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-30T20:14:49.461Z[UTC]",
+    "searchQuery" : "here",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-30T20:14:49.546Z[UTC]",
+    "searchQuery" : "hered",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-30T20:14:49.771Z[UTC]",
+    "searchQuery" : "hered",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-30T20:14:50.741Z[UTC]",
+    "searchQuery" : "hereder",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-11-30T20:14:51.197Z[UTC]",
+    "searchQuery" : "hereder",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-11-30T20:14:51.643Z[UTC]",
+    "searchQuery" : "heredero",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-11-30T20:14:52.110Z[UTC]",
+    "searchQuery" : "heredero",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T00:03:52.164Z[UTC]",
+    "searchQuery" : "mix ",
+    "searchInteractionURIs" : [
+      "spotify:playlist:2WmibDreWOs2afuhDkwO7F"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T00:13:37.076Z[UTC]",
+    "searchQuery" : "mix val",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T00:13:37.128Z[UTC]",
+    "searchQuery" : "mix vall",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T00:13:37.156Z[UTC]",
+    "searchQuery" : "mix val",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T00:13:37.191Z[UTC]",
+    "searchQuery" : "mix vall",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T00:13:37.273Z[UTC]",
+    "searchQuery" : "mix valle",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T00:13:37.357Z[UTC]",
+    "searchQuery" : "mix valle",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T00:13:37.992Z[UTC]",
+    "searchQuery" : "mix vallenat",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T00:13:38.042Z[UTC]",
+    "searchQuery" : "mix vallenat",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T00:13:40.656Z[UTC]",
+    "searchQuery" : "mix vallenato sal",
+    "searchInteractionURIs" : [
+      "spotify:search:mix+vallenato%2Csalsa%2Cmerengue.."
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T00:13:43.347Z[UTC]",
+    "searchQuery" : "mix vallenato,salsa,merengue..",
+    "searchInteractionURIs" : [
+      "spotify:playlist:4UdT4shzf4ehd4VEnfN3hY"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T01:06:01.166Z[UTC]",
+    "searchQuery" : "here",
+    "searchInteractionURIs" : [
+      "spotify:search:heredero"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T01:06:03.824Z[UTC]",
+    "searchQuery" : "heredero",
+    "searchInteractionURIs" : [
+      "spotify:track:5enCBu8FLjlLz60k9t15MA"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T01:06:11.321Z[UTC]",
+    "searchQuery" : "sti",
+    "searchInteractionURIs" : [
+      "spotify:track:51fjeEQR84knHbPr7aLZNA"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T01:06:42.740Z[UTC]",
+    "searchQuery" : "here",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2024-12-01T01:38:15.700Z[UTC]",
+    "searchQuery" : "como a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T01:38:16.905Z[UTC]",
+    "searchQuery" : "como asi",
+    "searchInteractionURIs" : [
+      "spotify:track:15Nhsd4YXNM58fvQUyHEOW"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T01:39:21.856Z[UTC]",
+    "searchQuery" : "alic",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T01:39:22.161Z[UTC]",
+    "searchQuery" : "alic",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T01:39:23.691Z[UTC]",
+    "searchQuery" : "alicia",
+    "searchInteractionURIs" : [
+      "spotify:search:alicia+adorada"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T01:39:27.270Z[UTC]",
+    "searchQuery" : "alicia adorada",
+    "searchInteractionURIs" : [
+      "spotify:track:1B8vfI3NI7zEvrd64Av1Sj"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T02:09:02.879Z[UTC]",
+    "searchQuery" : "lo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T02:09:03.584Z[UTC]",
+    "searchQuery" : "los sa",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T02:09:03.866Z[UTC]",
+    "searchQuery" : "los sa",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T02:09:05.082Z[UTC]",
+    "searchQuery" : "los sab",
+    "searchInteractionURIs" : [
+      "spotify:search:los+sabanales"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T02:09:06.952Z[UTC]",
+    "searchQuery" : "los sabanales",
+    "searchInteractionURIs" : [
+      "spotify:track:5Dc1LHpuOIYUZofJwF3FHL"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T02:09:07.346Z[UTC]",
+    "searchQuery" : "lo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T02:10:47.823Z[UTC]",
+    "searchQuery" : "silves",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T02:10:59.117Z[UTC]",
+    "searchQuery" : " charang",
+    "searchInteractionURIs" : [
+      "spotify:search:charanga+campesina"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T02:11:00.420Z[UTC]",
+    "searchQuery" : "charanga campesina",
+    "searchInteractionURIs" : [
+      "spotify:track:1tjFVXm886ZTNPFbF7oRZP"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T02:12:14.381Z[UTC]",
+    "searchQuery" : "felipepe",
+    "searchInteractionURIs" : [
+      "spotify:search:felipe+pel%C3%A1ez"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T02:12:16.432Z[UTC]",
+    "searchQuery" : "felipe peláez",
+    "searchInteractionURIs" : [
+      "spotify:track:0CNuKlYBAx8xa28X4J6Iy6",
+      "spotify:track:6XsLWDiUF8AstWDtd8wUpd"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2024-12-01T02:12:37.863Z[UTC]",
+    "searchQuery" : "felipe peláez",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T02:21:23.041Z[UTC]",
+    "searchQuery" : "coque",
+    "searchInteractionURIs" : [
+      "spotify:search:coqueta+heredero"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T02:21:24.599Z[UTC]",
+    "searchQuery" : "coqueta heredero",
+    "searchInteractionURIs" : [
+      "spotify:track:5enCBu8FLjlLz60k9t15MA"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T02:24:17.143Z[UTC]",
+    "searchQuery" : "coqueta heredero",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T02:24:42.582Z[UTC]",
+    "searchQuery" : "mix vallenatos ",
+    "searchInteractionURIs" : [
+      "spotify:search:mix+vallenatos+viejos+y+buenos"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T02:24:49.315Z[UTC]",
+    "searchQuery" : "mix vallenatos viejos y buenos",
+    "searchInteractionURIs" : [
+      "spotify:playlist:2IRXDpu9bNZ2oaQSpYza7C"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T17:21:14.904Z[UTC]",
+    "searchQuery" : "dean ",
+    "searchInteractionURIs" : [
+      "spotify:artist:3eCd0TZrBPm2n9cDG6yWfF"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T17:45:06.321Z[UTC]",
+    "searchQuery" : "wr",
+    "searchInteractionURIs" : [
+      "spotify:search:wrapped+ready%3F"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-01T17:45:09.374Z[UTC]",
+    "searchQuery" : "wrapped ready?",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1Fa1IIVtEpGUcU",
+      "spotify:playlist:37i9dQZF1F0sijgNaJdgit",
+      "spotify:playlist:2BrKBLmGrambS1OoUR5uzj",
+      "spotify:playlist:7eKOU8Rt8xOFmKUfj9mrtq",
+      "spotify:playlist:0bR8uD2m5SYHCM8jUw0tjx",
+      "spotify:playlist:37i9dQZF1Fa1IIVtEpGUcU"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2024-12-01T17:46:03.683Z[UTC]",
+    "searchQuery" : "wrapped ready?",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-01T17:46:15.422Z[UTC]",
+    "searchQuery" : "wrapped ready?",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-02T13:25:26.209Z[UTC]",
+    "searchQuery" : "wr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-02T13:25:26.290Z[UTC]",
+    "searchQuery" : "wr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-02T13:25:34.655Z[UTC]",
+    "searchQuery" : "wrapped 2024",
+    "searchInteractionURIs" : [
+      "spotify:episode:0trnzj293pkfesCSYYj9by"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2024-12-02T13:25:39.602Z[UTC]",
+    "searchQuery" : "wrapped 2024",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-02T13:25:46.237Z[UTC]",
+    "searchQuery" : "wrapped 2024",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-03T01:35:26.016Z[UTC]",
+    "searchQuery" : "d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-03T01:35:26.250Z[UTC]",
+    "searchQuery" : "d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-03T01:35:28.456Z[UTC]",
+    "searchQuery" : "detalles",
+    "searchInteractionURIs" : [
+      "spotify:track:4YOz0Fl5q0cXanSCUtsW13"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-04T12:36:26.279Z[UTC]",
+    "searchQuery" : "spotify",
+    "searchInteractionURIs" : [
+      "spotify:search:spotify+wrapped+2024"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-04T12:36:32.887Z[UTC]",
+    "searchQuery" : "spotify wrapped 2024",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-06T15:04:08.533Z[UTC]",
+    "searchQuery" : "pour",
+    "searchInteractionURIs" : [
+      "spotify:track:2p980qlVXYLh3HdHusbhfa",
+      "spotify:track:2p980qlVXYLh3HdHusbhfa"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:40.785Z[UTC]",
+    "searchQuery" : "v",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:40.977Z[UTC]",
+    "searchQuery" : "vu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:41.076Z[UTC]",
+    "searchQuery" : "v",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:41.216Z[UTC]",
+    "searchQuery" : "vu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:42.225Z[UTC]",
+    "searchQuery" : "vue",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:42.518Z[UTC]",
+    "searchQuery" : "vue",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:44.437Z[UTC]",
+    "searchQuery" : "vuelv",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:44.828Z[UTC]",
+    "searchQuery" : "vuelve",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:45.293Z[UTC]",
+    "searchQuery" : "vuelve ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:45.496Z[UTC]",
+    "searchQuery" : "vuelve ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:46.568Z[UTC]",
+    "searchQuery" : "vuelve p",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:46.903Z[UTC]",
+    "searchQuery" : "vuelve por ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-07T20:10:46.916Z[UTC]",
+    "searchQuery" : "vuelve po",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:47.139Z[UTC]",
+    "searchQuery" : "vuelve por ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:47.851Z[UTC]",
+    "searchQuery" : "vuelve por f",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:48.291Z[UTC]",
+    "searchQuery" : "vuelve por fa",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:48.623Z[UTC]",
+    "searchQuery" : "vuelve por fa",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:51.573Z[UTC]",
+    "searchQuery" : "vuelve por f",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:53.499Z[UTC]",
+    "searchQuery" : "vuel",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:56.347Z[UTC]",
+    "searchQuery" : "vuelve",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:58.618Z[UTC]",
+    "searchQuery" : "vuel",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:10:59.982Z[UTC]",
+    "searchQuery" : "vuelve po",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:11:05.144Z[UTC]",
+    "searchQuery" : "vuelve p",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:11:05.464Z[UTC]",
+    "searchQuery" : "vuelv",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:30.338Z[UTC]",
+    "searchQuery" : "a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:30.592Z[UTC]",
+    "searchQuery" : "a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:30.756Z[UTC]",
+    "searchQuery" : "an",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:30.976Z[UTC]",
+    "searchQuery" : "an",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-07T20:19:31.190Z[UTC]",
+    "searchQuery" : "ang",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:31.268Z[UTC]",
+    "searchQuery" : "ang",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:31.779Z[UTC]",
+    "searchQuery" : "ange",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:32.019Z[UTC]",
+    "searchQuery" : "ange",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:32.298Z[UTC]",
+    "searchQuery" : "angel",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:32.538Z[UTC]",
+    "searchQuery" : "angel",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:32.788Z[UTC]",
+    "searchQuery" : "angela",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:33.062Z[UTC]",
+    "searchQuery" : "angela",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:33.565Z[UTC]",
+    "searchQuery" : "angela ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:33.807Z[UTC]",
+    "searchQuery" : "angela ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:34.180Z[UTC]",
+    "searchQuery" : "angela a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-07T20:19:34.681Z[UTC]",
+    "searchQuery" : "angela a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:35.829Z[UTC]",
+    "searchQuery" : "angela ag",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:36.047Z[UTC]",
+    "searchQuery" : "angela ag",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:36.268Z[UTC]",
+    "searchQuery" : "angela agu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:36.577Z[UTC]",
+    "searchQuery" : "angela agu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:36.797Z[UTC]",
+    "searchQuery" : "angela agui",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:19:37.096Z[UTC]",
+    "searchQuery" : "angela agui",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:26:41.415Z[UTC]",
+    "searchQuery" : "h",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:26:41.701Z[UTC]",
+    "searchQuery" : "hi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:26:41.707Z[UTC]",
+    "searchQuery" : "h",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-07T20:26:42.096Z[UTC]",
+    "searchQuery" : "hi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:26:42.173Z[UTC]",
+    "searchQuery" : "hili",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-07T20:26:42.682Z[UTC]",
+    "searchQuery" : "hili",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:26:42.998Z[UTC]",
+    "searchQuery" : "hilit",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:26:43.218Z[UTC]",
+    "searchQuery" : "hilit",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:26:43.729Z[UTC]",
+    "searchQuery" : "hilito",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:26:44.280Z[UTC]",
+    "searchQuery" : "hilito",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:39:20.023Z[UTC]",
+    "searchQuery" : "e",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:39:20.364Z[UTC]",
+    "searchQuery" : "el ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:39:20.376Z[UTC]",
+    "searchQuery" : "e",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-07T20:39:20.759Z[UTC]",
+    "searchQuery" : "el ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:39:20.983Z[UTC]",
+    "searchQuery" : "el m",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:39:21.209Z[UTC]",
+    "searchQuery" : "el m",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:39:21.822Z[UTC]",
+    "searchQuery" : "el mucha",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:39:22.199Z[UTC]",
+    "searchQuery" : "el mucha",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:39:22.376Z[UTC]",
+    "searchQuery" : "el muchac",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-07T20:39:22.797Z[UTC]",
+    "searchQuery" : "el muchac",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:39:23.730Z[UTC]",
+    "searchQuery" : "el muchacho",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:39:23.986Z[UTC]",
+    "searchQuery" : "el muchacho",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:48:42.274Z[UTC]",
+    "searchQuery" : "n",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:48:42.531Z[UTC]",
+    "searchQuery" : "n",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:48:42.624Z[UTC]",
+    "searchQuery" : "nec",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-07T20:48:43.102Z[UTC]",
+    "searchQuery" : "nec",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:48:44.040Z[UTC]",
+    "searchQuery" : "necio}",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:48:44.675Z[UTC]",
+    "searchQuery" : "necio}",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:23.359Z[UTC]",
+    "searchQuery" : "necio",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:23.624Z[UTC]",
+    "searchQuery" : "necio",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:31.259Z[UTC]",
+    "searchQuery" : "b",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:31.557Z[UTC]",
+    "searchQuery" : "b",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:31.701Z[UTC]",
+    "searchQuery" : "bi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:31.943Z[UTC]",
+    "searchQuery" : "bi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:32.578Z[UTC]",
+    "searchQuery" : "bic",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:32.795Z[UTC]",
+    "searchQuery" : "bic",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:33.104Z[UTC]",
+    "searchQuery" : "bici",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:33.308Z[UTC]",
+    "searchQuery" : "bici",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:33.436Z[UTC]",
+    "searchQuery" : "bicic",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:33.678Z[UTC]",
+    "searchQuery" : "bicic",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:33.945Z[UTC]",
+    "searchQuery" : "bicicl",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:34.328Z[UTC]",
+    "searchQuery" : "bicicl",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:34.655Z[UTC]",
+    "searchQuery" : "biciclet",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:34.935Z[UTC]",
+    "searchQuery" : "biciclet",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:34.967Z[UTC]",
+    "searchQuery" : "bicicleta",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:35.233Z[UTC]",
+    "searchQuery" : "bicicleta",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:59.497Z[UTC]",
+    "searchQuery" : "s",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:59.746Z[UTC]",
+    "searchQuery" : "s",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:54:59.937Z[UTC]",
+    "searchQuery" : "so",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:00.219Z[UTC]",
+    "searchQuery" : "so",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:00.805Z[UTC]",
+    "searchQuery" : "sor",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:01.033Z[UTC]",
+    "searchQuery" : "sor",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:01.342Z[UTC]",
+    "searchQuery" : "sord",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:01.556Z[UTC]",
+    "searchQuery" : "sord",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:05.310Z[UTC]",
+    "searchQuery" : "t",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:05.587Z[UTC]",
+    "searchQuery" : "t",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:05.612Z[UTC]",
+    "searchQuery" : "te",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:05.882Z[UTC]",
+    "searchQuery" : "te ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:05.888Z[UTC]",
+    "searchQuery" : "te",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:06.150Z[UTC]",
+    "searchQuery" : "te ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:06.194Z[UTC]",
+    "searchQuery" : "te a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:06.401Z[UTC]",
+    "searchQuery" : "te a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:06.713Z[UTC]",
+    "searchQuery" : "te av",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-07T20:55:07.118Z[UTC]",
+    "searchQuery" : "te av",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:07.299Z[UTC]",
+    "searchQuery" : "te avi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:55:07.544Z[UTC]",
+    "searchQuery" : "te avi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-07T20:59:03.742Z[UTC]",
+    "searchQuery" : "l",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:59:03.830Z[UTC]",
+    "searchQuery" : "l",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:59:04.290Z[UTC]",
+    "searchQuery" : "las",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:59:04.575Z[UTC]",
+    "searchQuery" : "las",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:59:05.246Z[UTC]",
+    "searchQuery" : "las ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:59:05.928Z[UTC]",
+    "searchQuery" : "las ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:59:06.168Z[UTC]",
+    "searchQuery" : "las de",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:59:06.848Z[UTC]",
+    "searchQuery" : "las de",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:59:07.275Z[UTC]",
+    "searchQuery" : "las de ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:59:07.941Z[UTC]",
+    "searchQuery" : "las de ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-07T20:59:08.805Z[UTC]",
+    "searchQuery" : "las de l",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T20:59:08.962Z[UTC]",
+    "searchQuery" : "las de l",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:02:42.931Z[UTC]",
+    "searchQuery" : "a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:02:43.109Z[UTC]",
+    "searchQuery" : "at",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-07T21:02:43.350Z[UTC]",
+    "searchQuery" : "a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:02:43.359Z[UTC]",
+    "searchQuery" : "at",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:02:43.502Z[UTC]",
+    "searchQuery" : "atre",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:02:43.732Z[UTC]",
+    "searchQuery" : "atre",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:02:45.010Z[UTC]",
+    "searchQuery" : "atrevete",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-07T21:02:45.846Z[UTC]",
+    "searchQuery" : "atrevete",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:45:12.733Z[UTC]",
+    "searchQuery" : "p",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:45:13.068Z[UTC]",
+    "searchQuery" : "p",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:45:13.104Z[UTC]",
+    "searchQuery" : "pe",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:45:13.407Z[UTC]",
+    "searchQuery" : "pe",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:45:13.778Z[UTC]",
+    "searchQuery" : "pedr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:45:13.788Z[UTC]",
+    "searchQuery" : "ped",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:45:13.984Z[UTC]",
+    "searchQuery" : "ped",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:45:14.025Z[UTC]",
+    "searchQuery" : "pedr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:45:14.850Z[UTC]",
+    "searchQuery" : "pedro",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:45:15.117Z[UTC]",
+    "searchQuery" : "pedro",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:59:55.689Z[UTC]",
+    "searchQuery" : "j",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:59:55.858Z[UTC]",
+    "searchQuery" : "ju",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:59:56.011Z[UTC]",
+    "searchQuery" : "j",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:59:56.134Z[UTC]",
+    "searchQuery" : "ju",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T21:59:56.605Z[UTC]",
+    "searchQuery" : "jua",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T22:00:00.196Z[UTC]",
+    "searchQuery" : "juani",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T22:00:00.365Z[UTC]",
+    "searchQuery" : "juani",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-07T22:00:01.609Z[UTC]",
+    "searchQuery" : "jua",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-08T21:50:23.830Z[UTC]",
+    "searchQuery" : "sabrina",
+    "searchInteractionURIs" : [
+      "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-09T00:43:43.074Z[UTC]",
+    "searchQuery" : "don ",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DZ06evO1LLRbG"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-09T13:01:01.590Z[UTC]",
+    "searchQuery" : "살",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-09T13:01:01.637Z[UTC]",
+    "searchQuery" : "살",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-09T13:01:03.330Z[UTC]",
+    "searchQuery" : "사랑ㅇ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-09T13:01:03.343Z[UTC]",
+    "searchQuery" : "사랑ㅇ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-09T13:01:04.433Z[UTC]",
+    "searchQuery" : "사랑이",
+    "searchInteractionURIs" : [
+      "spotify:track:4twllsTUoTAFxiVeq3bNjq"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-09T19:41:25.091Z[UTC]",
+    "searchQuery" : "ka",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-09T19:41:25.359Z[UTC]",
+    "searchQuery" : "ka",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-09T19:41:25.764Z[UTC]",
+    "searchQuery" : "kal",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-09T19:41:26.069Z[UTC]",
+    "searchQuery" : "kal",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-09T19:41:26.224Z[UTC]",
+    "searchQuery" : "kale",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-09T19:41:26.444Z[UTC]",
+    "searchQuery" : "kale",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-09T19:41:27.357Z[UTC]",
+    "searchQuery" : "kalet",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-09T19:41:27.618Z[UTC]",
+    "searchQuery" : "kalet",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-09T19:41:28.625Z[UTC]",
+    "searchQuery" : "kaleth",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-09T19:41:29.051Z[UTC]",
+    "searchQuery" : "kaleth",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-10T00:06:32.417Z[UTC]",
+    "searchQuery" : "tadow",
+    "searchInteractionURIs" : [
+      "spotify:track:51rPRW8NjxZoWPPjnRGzHw"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-10T15:15:02.111Z[UTC]",
+    "searchQuery" : "i lij",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-10T15:15:02.549Z[UTC]",
+    "searchQuery" : "i lik",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2024-12-10T15:15:02.602Z[UTC]",
+    "searchQuery" : "i ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-10T15:15:02.686Z[UTC]",
+    "searchQuery" : "i lij",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-10T15:15:08.267Z[UTC]",
+    "searchQuery" : "i lije you nik",
+    "searchInteractionURIs" : [
+      "spotify:track:1ctbkptXLNIoEVTNAFYV4d"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-11T00:17:42.407Z[UTC]",
+    "searchQuery" : "l",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-11T00:17:42.596Z[UTC]",
+    "searchQuery" : "lo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-11T00:17:42.657Z[UTC]",
+    "searchQuery" : "l",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-11T00:17:42.664Z[UTC]",
+    "searchQuery" : "lo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-11T00:17:43.305Z[UTC]",
+    "searchQuery" : "lo ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-11T00:17:43.697Z[UTC]",
+    "searchQuery" : "lo ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-11T00:17:44.402Z[UTC]",
+    "searchQuery" : "lo q",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-11T00:17:44.642Z[UTC]",
+    "searchQuery" : "lo q",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-11T00:17:44.788Z[UTC]",
+    "searchQuery" : "lo que",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-11T00:17:45.041Z[UTC]",
+    "searchQuery" : "lo que",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-11T00:17:45.158Z[UTC]",
+    "searchQuery" : "lo que ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-11T00:17:45.572Z[UTC]",
+    "searchQuery" : "lo que ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-11T00:17:45.606Z[UTC]",
+    "searchQuery" : "lo que d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-11T00:17:46.143Z[UTC]",
+    "searchQuery" : "lo que d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-11T00:17:46.867Z[UTC]",
+    "searchQuery" : "lo que f",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-11T00:17:46.938Z[UTC]",
+    "searchQuery" : "lo que f",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-11T00:17:47.182Z[UTC]",
+    "searchQuery" : "lo que fu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-11T00:17:47.462Z[UTC]",
+    "searchQuery" : "lo que fu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-11T00:30:05.655Z[UTC]",
+    "searchQuery" : "usted se",
+    "searchInteractionURIs" : [
+      "spotify:track:1wx6JALNy9KXwndVziEUKw",
+      "spotify:track:1wx6JALNy9KXwndVziEUKw"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-11T01:08:54.898Z[UTC]",
+    "searchQuery" : "sin ti",
+    "searchInteractionURIs" : [
+      "spotify:track:6vLZeNQlHhvJyiUBEzlUQB",
+      "spotify:track:6vLZeNQlHhvJyiUBEzlUQB",
+      "spotify:track:6vLZeNQlHhvJyiUBEzlUQB"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-11T01:30:48.685Z[UTC]",
+    "searchQuery" : "el vino",
+    "searchInteractionURIs" : [
+      "spotify:search:el+vino+y+el+tiempo"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-11T01:30:51.101Z[UTC]",
+    "searchQuery" : "el vino y el tiempo",
+    "searchInteractionURIs" : [
+      "spotify:album:3E8R0On43aWkW2gVtBxJce"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T16:05:56.929Z[UTC]",
+    "searchQuery" : "e",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T16:05:57.219Z[UTC]",
+    "searchQuery" : "e",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T16:05:58.666Z[UTC]",
+    "searchQuery" : "em",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T16:05:58.936Z[UTC]",
+    "searchQuery" : "em",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T16:05:59.215Z[UTC]",
+    "searchQuery" : "embr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T16:05:59.459Z[UTC]",
+    "searchQuery" : "embr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T16:05:59.705Z[UTC]",
+    "searchQuery" : "embru",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T16:05:59.928Z[UTC]",
+    "searchQuery" : "embru",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T16:06:00.705Z[UTC]",
+    "searchQuery" : "embrujo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T16:06:00.954Z[UTC]",
+    "searchQuery" : "embrujo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:27.186Z[UTC]",
+    "searchQuery" : "la",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:27.875Z[UTC]",
+    "searchQuery" : "la",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:27.880Z[UTC]",
+    "searchQuery" : "late ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:28.193Z[UTC]",
+    "searchQuery" : "late n",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:28.607Z[UTC]",
+    "searchQuery" : "late ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:28.905Z[UTC]",
+    "searchQuery" : "late n",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-12T20:35:30.564Z[UTC]",
+    "searchQuery" : "late ni",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:30.644Z[UTC]",
+    "searchQuery" : "late ni",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:33.095Z[UTC]",
+    "searchQuery" : "late nig",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:33.525Z[UTC]",
+    "searchQuery" : "late night",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:33.778Z[UTC]",
+    "searchQuery" : "late nig",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:34.067Z[UTC]",
+    "searchQuery" : "late night c",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:34.211Z[UTC]",
+    "searchQuery" : "late night",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:34.732Z[UTC]",
+    "searchQuery" : "late night c",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:35.313Z[UTC]",
+    "searchQuery" : "late night call",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:35.808Z[UTC]",
+    "searchQuery" : "late night call",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-12T20:35:35.820Z[UTC]",
+    "searchQuery" : "late night calls",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-12T20:35:36.754Z[UTC]",
+    "searchQuery" : "late night calls",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T02:25:55.839Z[UTC]",
+    "searchQuery" : "h",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T02:25:56.012Z[UTC]",
+    "searchQuery" : "hy",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T02:25:56.250Z[UTC]",
+    "searchQuery" : "hy",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-13T02:25:56.629Z[UTC]",
+    "searchQuery" : "h",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T02:25:57.393Z[UTC]",
+    "searchQuery" : "hyp",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T02:25:58.633Z[UTC]",
+    "searchQuery" : "hypo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T02:25:59.672Z[UTC]",
+    "searchQuery" : "hypot",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T02:25:59.922Z[UTC]",
+    "searchQuery" : "hypot",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T02:26:00.061Z[UTC]",
+    "searchQuery" : "hyp",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T02:26:01.085Z[UTC]",
+    "searchQuery" : "hypo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T02:26:01.448Z[UTC]",
+    "searchQuery" : "hypotheti",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T02:26:06.117Z[UTC]",
+    "searchQuery" : "hypotheti",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T02:26:40.948Z[UTC]",
+    "searchQuery" : "hypoth",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T02:26:41.233Z[UTC]",
+    "searchQuery" : "hypoth",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-13T18:05:05.502Z[UTC]",
+    "searchQuery" : "jetski j",
+    "searchInteractionURIs" : [
+      "spotify:track:6HHJExAqL4NPZIEenlCRCR",
+      "spotify:track:0ncCaYom8GIvfCjuecL2eP",
+      "spotify:track:6HHJExAqL4NPZIEenlCRCR"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T18:23:44.304Z[UTC]",
+    "searchQuery" : "ti",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T18:23:44.317Z[UTC]",
+    "searchQuery" : "tin",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T18:23:44.587Z[UTC]",
+    "searchQuery" : "tin",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T18:23:44.609Z[UTC]",
+    "searchQuery" : "ti",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T18:23:44.723Z[UTC]",
+    "searchQuery" : "tini",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-13T18:23:44.966Z[UTC]",
+    "searchQuery" : "tini",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-13T19:40:24.200Z[UTC]",
+    "searchQuery" : "kodoku",
+    "searchInteractionURIs" : [
+      "spotify:artist:2mDygmvuNzsZhLvMfEUfmu"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-13T20:41:45.664Z[UTC]",
+    "searchQuery" : "i thi",
+    "searchInteractionURIs" : [
+      "spotify:search:i+think+they+call+this+love"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-13T20:41:47.009Z[UTC]",
+    "searchQuery" : "i think they call this love",
+    "searchInteractionURIs" : [
+      "spotify:track:4oHQ8n9OKQ3599e8noCrDX"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-13T20:50:43.908Z[UTC]",
+    "searchQuery" : "lmly",
+    "searchInteractionURIs" : [
+      "spotify:track:3kPoV6L9vXpbxoM4Ux0KnX"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T19:55:19.310Z[UTC]",
+    "searchQuery" : "g",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T19:55:19.669Z[UTC]",
+    "searchQuery" : "g",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:11:37.529Z[UTC]",
+    "searchQuery" : "de",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:11:37.821Z[UTC]",
+    "searchQuery" : "de",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:11:39.090Z[UTC]",
+    "searchQuery" : "denge",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:11:39.343Z[UTC]",
+    "searchQuery" : "denge",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-14T20:11:40.815Z[UTC]",
+    "searchQuery" : "denger",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:11:40.902Z[UTC]",
+    "searchQuery" : "denger",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:11:42.050Z[UTC]",
+    "searchQuery" : "dengero",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:11:42.446Z[UTC]",
+    "searchQuery" : "dengero",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:11:42.534Z[UTC]",
+    "searchQuery" : "dengerous",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:11:42.994Z[UTC]",
+    "searchQuery" : "dengerous",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:04.647Z[UTC]",
+    "searchQuery" : "la ma",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:04.899Z[UTC]",
+    "searchQuery" : "la ma",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:05.758Z[UTC]",
+    "searchQuery" : "la magis",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:06.005Z[UTC]",
+    "searchQuery" : "la magis",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:06.221Z[UTC]",
+    "searchQuery" : "la magia",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:06.558Z[UTC]",
+    "searchQuery" : "la magia ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-14T20:14:06.649Z[UTC]",
+    "searchQuery" : "la magia",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:06.826Z[UTC]",
+    "searchQuery" : "la magia ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:06.878Z[UTC]",
+    "searchQuery" : "la magia f",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:07.203Z[UTC]",
+    "searchQuery" : "la magia f",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:07.530Z[UTC]",
+    "searchQuery" : "la magia fr ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:07.882Z[UTC]",
+    "searchQuery" : "la magia fr ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:08.531Z[UTC]",
+    "searchQuery" : "la magia fde ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:08.914Z[UTC]",
+    "searchQuery" : "la magia fde ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:08.939Z[UTC]",
+    "searchQuery" : "la magia fde t",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:09.319Z[UTC]",
+    "searchQuery" : "la magia fde t",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:10.880Z[UTC]",
+    "searchQuery" : "la magia  ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:11.136Z[UTC]",
+    "searchQuery" : "la magia  ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:12.332Z[UTC]",
+    "searchQuery" : "la magia  d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-14T20:14:12.824Z[UTC]",
+    "searchQuery" : "la magia  d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:13.036Z[UTC]",
+    "searchQuery" : "la magia  de ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:13.307Z[UTC]",
+    "searchQuery" : "la magia  de to",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:13.450Z[UTC]",
+    "searchQuery" : "la magia  de ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:13.710Z[UTC]",
+    "searchQuery" : "la magia  de to",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:13.919Z[UTC]",
+    "searchQuery" : "la magia  de t",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:14.330Z[UTC]",
+    "searchQuery" : "la magia  de t",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:14.747Z[UTC]",
+    "searchQuery" : "la magia  de tus",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:14:15.127Z[UTC]",
+    "searchQuery" : "la magia  de tus",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:15:14.345Z[UTC]",
+    "searchQuery" : "u",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:15:14.548Z[UTC]",
+    "searchQuery" : "una ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:15:14.726Z[UTC]",
+    "searchQuery" : "u",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:15:14.872Z[UTC]",
+    "searchQuery" : "una ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:15:15.080Z[UTC]",
+    "searchQuery" : "una a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:15:15.352Z[UTC]",
+    "searchQuery" : "una av",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:15:15.381Z[UTC]",
+    "searchQuery" : "una a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:15:15.904Z[UTC]",
+    "searchQuery" : "una av",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:15:15.930Z[UTC]",
+    "searchQuery" : "una ave",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:15:16.209Z[UTC]",
+    "searchQuery" : "una ave",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:16:21.199Z[UTC]",
+    "searchQuery" : "nue",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:16:21.202Z[UTC]",
+    "searchQuery" : "nuest",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:16:21.202Z[UTC]",
+    "searchQuery" : "nues",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:16:21.254Z[UTC]",
+    "searchQuery" : "nuestr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:16:21.445Z[UTC]",
+    "searchQuery" : "nuest",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:16:21.447Z[UTC]",
+    "searchQuery" : "nues",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:16:21.480Z[UTC]",
+    "searchQuery" : "nue",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:16:21.485Z[UTC]",
+    "searchQuery" : "nuestr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:16:21.850Z[UTC]",
+    "searchQuery" : "nuestro",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:16:22.231Z[UTC]",
+    "searchQuery" : "nuestro",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:02.524Z[UTC]",
+    "searchQuery" : "ha",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:02.691Z[UTC]",
+    "searchQuery" : "haga",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:02.778Z[UTC]",
+    "searchQuery" : "ha",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:02.983Z[UTC]",
+    "searchQuery" : "haga",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:03.416Z[UTC]",
+    "searchQuery" : "hagamos ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-14T20:17:03.884Z[UTC]",
+    "searchQuery" : "hagamos ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:04.352Z[UTC]",
+    "searchQuery" : "hagamos loo w",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:04.646Z[UTC]",
+    "searchQuery" : "hagamos loo w",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:05.282Z[UTC]",
+    "searchQuery" : "hagamos low",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:05.626Z[UTC]",
+    "searchQuery" : "hagamos low",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:06.730Z[UTC]",
+    "searchQuery" : "hagamos lo q",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:06.999Z[UTC]",
+    "searchQuery" : "hagamos lo q",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:07.121Z[UTC]",
+    "searchQuery" : "hagamos lo que",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:07.411Z[UTC]",
+    "searchQuery" : "hagamos lo que",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:35.533Z[UTC]",
+    "searchQuery" : "ni",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:35.765Z[UTC]",
+    "searchQuery" : "ni",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:35.803Z[UTC]",
+    "searchQuery" : "nic",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:36.058Z[UTC]",
+    "searchQuery" : "nic",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:36.332Z[UTC]",
+    "searchQuery" : "niche",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:17:36.612Z[UTC]",
+    "searchQuery" : "niche",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:10.307Z[UTC]",
+    "searchQuery" : "bus",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:10.578Z[UTC]",
+    "searchQuery" : "busca",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:10.668Z[UTC]",
+    "searchQuery" : "bus",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:10.838Z[UTC]",
+    "searchQuery" : "busca",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:10.853Z[UTC]",
+    "searchQuery" : "busca ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:11.095Z[UTC]",
+    "searchQuery" : "busca ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-14T20:18:12.258Z[UTC]",
+    "searchQuery" : "busca por ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:12.328Z[UTC]",
+    "searchQuery" : "busca por ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:25.479Z[UTC]",
+    "searchQuery" : "go",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:25.845Z[UTC]",
+    "searchQuery" : "gota",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:26.135Z[UTC]",
+    "searchQuery" : "gota",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:26.156Z[UTC]",
+    "searchQuery" : "gotas",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-14T20:18:26.206Z[UTC]",
+    "searchQuery" : "go",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:26.399Z[UTC]",
+    "searchQuery" : "gotas",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:26.638Z[UTC]",
+    "searchQuery" : "gotas d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:26.936Z[UTC]",
+    "searchQuery" : "gotas d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:27.056Z[UTC]",
+    "searchQuery" : "gotas de",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:27.312Z[UTC]",
+    "searchQuery" : "gotas de",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:49.267Z[UTC]",
+    "searchQuery" : "je",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:49.518Z[UTC]",
+    "searchQuery" : "je",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:49.702Z[UTC]",
+    "searchQuery" : "jey",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:18:50.004Z[UTC]",
+    "searchQuery" : "jey",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:42:35.184Z[UTC]",
+    "searchQuery" : "ca",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:42:35.275Z[UTC]",
+    "searchQuery" : "cari",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:42:35.458Z[UTC]",
+    "searchQuery" : "carit",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:42:35.479Z[UTC]",
+    "searchQuery" : "ca",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:42:35.553Z[UTC]",
+    "searchQuery" : "cari",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:42:35.691Z[UTC]",
+    "searchQuery" : "carit",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:42:36.814Z[UTC]",
+    "searchQuery" : "carito",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T20:42:37.061Z[UTC]",
+    "searchQuery" : "carito",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:35.301Z[UTC]",
+    "searchQuery" : "e",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-14T21:03:35.601Z[UTC]",
+    "searchQuery" : "ea",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:35.681Z[UTC]",
+    "searchQuery" : "e",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:35.683Z[UTC]",
+    "searchQuery" : "ea",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:37.011Z[UTC]",
+    "searchQuery" : "esa",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:37.274Z[UTC]",
+    "searchQuery" : "esa",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:37.617Z[UTC]",
+    "searchQuery" : "esa bo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:37.880Z[UTC]",
+    "searchQuery" : "esa bo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-14T21:03:38.653Z[UTC]",
+    "searchQuery" : "esa boqui",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:38.727Z[UTC]",
+    "searchQuery" : "esa boqui",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:43.315Z[UTC]",
+    "searchQuery" : "esa boquita",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:43.632Z[UTC]",
+    "searchQuery" : "esa boquita",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:44.494Z[UTC]",
+    "searchQuery" : "esa boquita ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:44.746Z[UTC]",
+    "searchQuery" : "esa boquita ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:45.229Z[UTC]",
+    "searchQuery" : "esa boquita d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:45.583Z[UTC]",
+    "searchQuery" : "esa boquita d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-14T21:03:47.319Z[UTC]",
+    "searchQuery" : "esa boquita dr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:47.335Z[UTC]",
+    "searchQuery" : "esa boquita dra",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:47.390Z[UTC]",
+    "searchQuery" : "esa boquita dr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:03:47.675Z[UTC]",
+    "searchQuery" : "esa boquita dra",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:32.227Z[UTC]",
+    "searchQuery" : "eco",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:32.531Z[UTC]",
+    "searchQuery" : "eco",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:33.425Z[UTC]",
+    "searchQuery" : "eco ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:33.762Z[UTC]",
+    "searchQuery" : "eco ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-14T21:11:35.637Z[UTC]",
+    "searchQuery" : "eco fe",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:35.732Z[UTC]",
+    "searchQuery" : "eco feli",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-14T21:11:35.877Z[UTC]",
+    "searchQuery" : "eco fe",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:36.253Z[UTC]",
+    "searchQuery" : "eco feli",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:37.390Z[UTC]",
+    "searchQuery" : "eco felipe",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:37.905Z[UTC]",
+    "searchQuery" : "eco felipe",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:39.835Z[UTC]",
+    "searchQuery" : "eco felipe ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:40.209Z[UTC]",
+    "searchQuery" : "eco felipe ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:40.398Z[UTC]",
+    "searchQuery" : "eco felipe os",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:40.682Z[UTC]",
+    "searchQuery" : "eco felipe os",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:41.169Z[UTC]",
+    "searchQuery" : "eco felipe osp",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:41.401Z[UTC]",
+    "searchQuery" : "eco felipe osp",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:45.307Z[UTC]",
+    "searchQuery" : "eco felipe o",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:11:45.701Z[UTC]",
+    "searchQuery" : "eco felipe o",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:19:07.690Z[UTC]",
+    "searchQuery" : "hasta",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-14T21:19:08.136Z[UTC]",
+    "searchQuery" : "hasta",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:19:08.411Z[UTC]",
+    "searchQuery" : "hasta ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-14T21:19:08.779Z[UTC]",
+    "searchQuery" : "hasta ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:19:09.710Z[UTC]",
+    "searchQuery" : "hasta que ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:19:09.950Z[UTC]",
+    "searchQuery" : "hasta que ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:19:27.829Z[UTC]",
+    "searchQuery" : "ha",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:19:28.094Z[UTC]",
+    "searchQuery" : "ha",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:19:28.198Z[UTC]",
+    "searchQuery" : "has",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:19:28.572Z[UTC]",
+    "searchQuery" : "has",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:19:29.716Z[UTC]",
+    "searchQuery" : "hasta q",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:19:29.994Z[UTC]",
+    "searchQuery" : "hasta q",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T21:19:30.160Z[UTC]",
+    "searchQuery" : "hasta que",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-14T21:19:30.605Z[UTC]",
+    "searchQuery" : "hasta que",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T22:48:00.635Z[UTC]",
+    "searchQuery" : "justin bieber",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T22:48:00.932Z[UTC]",
+    "searchQuery" : "justin bieber",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T22:48:02.634Z[UTC]",
+    "searchQuery" : "justin bieber a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T22:48:02.956Z[UTC]",
+    "searchQuery" : "justin bieber ar",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T22:48:03.014Z[UTC]",
+    "searchQuery" : "justin bieber a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T22:48:03.295Z[UTC]",
+    "searchQuery" : "justin bieber ar",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T22:48:03.979Z[UTC]",
+    "searchQuery" : "justin bieber aria",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-14T22:48:04.466Z[UTC]",
+    "searchQuery" : "justin bieber aria",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-17T22:26:07.846Z[UTC]",
+    "searchQuery" : "como fue",
+    "searchInteractionURIs" : [
+      "spotify:track:52mWQrfFlL8LS92GSBsirH",
+      "spotify:track:7dbSNvhDTNugY9x44kzVwi"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:24:22.191Z[UTC]",
+    "searchQuery" : "do",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:24:22.472Z[UTC]",
+    "searchQuery" : "do",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:24:22.495Z[UTC]",
+    "searchQuery" : "don",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:24:22.701Z[UTC]",
+    "searchQuery" : "don",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:24:24.070Z[UTC]",
+    "searchQuery" : "don't",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:24:24.364Z[UTC]",
+    "searchQuery" : "don't",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:24:24.908Z[UTC]",
+    "searchQuery" : "don't ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:24:25.169Z[UTC]",
+    "searchQuery" : "don't ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:24:25.730Z[UTC]",
+    "searchQuery" : "don't eve",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:24:26.013Z[UTC]",
+    "searchQuery" : "don't eve",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:24:26.449Z[UTC]",
+    "searchQuery" : "don't ever s",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:24:26.807Z[UTC]",
+    "searchQuery" : "don't ever s",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:01.566Z[UTC]",
+    "searchQuery" : "s",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:01.817Z[UTC]",
+    "searchQuery" : "s",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:02.076Z[UTC]",
+    "searchQuery" : "sme",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:02.301Z[UTC]",
+    "searchQuery" : "sme",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:13.663Z[UTC]",
+    "searchQuery" : "some",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:13.699Z[UTC]",
+    "searchQuery" : "some ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:13.895Z[UTC]",
+    "searchQuery" : "some",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-19T01:25:14.050Z[UTC]",
+    "searchQuery" : "some ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:21.692Z[UTC]",
+    "searchQuery" : "some gi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:21.903Z[UTC]",
+    "searchQuery" : "some gi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:21.976Z[UTC]",
+    "searchQuery" : "some gik",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-19T01:25:22.452Z[UTC]",
+    "searchQuery" : "some gik",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:23.098Z[UTC]",
+    "searchQuery" : "some g",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:23.324Z[UTC]",
+    "searchQuery" : "some g",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-19T01:25:26.342Z[UTC]",
+    "searchQuery" : "some ki",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:26.412Z[UTC]",
+    "searchQuery" : "some ki",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:27.450Z[UTC]",
+    "searchQuery" : "some kig",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-19T01:25:27.725Z[UTC]",
+    "searchQuery" : "some kig",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-19T22:21:31.858Z[UTC]",
+    "searchQuery" : "diamonds and",
+    "searchInteractionURIs" : [
+      "spotify:track:314oBdIvnoTPDwSP4zOP8p"
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-20T18:28:15.054Z[UTC]",
+    "searchQuery" : "34 35",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-20T18:28:15.130Z[UTC]",
+    "searchQuery" : "34 35",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-20T18:28:23.037Z[UTC]",
+    "searchQuery" : "sa",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-20T18:28:23.265Z[UTC]",
+    "searchQuery" : "sa",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-20T18:28:23.426Z[UTC]",
+    "searchQuery" : "san",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-20T18:28:23.829Z[UTC]",
+    "searchQuery" : "san",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-20T18:28:24.026Z[UTC]",
+    "searchQuery" : "santa",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-20T18:28:24.243Z[UTC]",
+    "searchQuery" : "santa",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-20T18:28:24.582Z[UTC]",
+    "searchQuery" : "santa ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-20T18:28:24.810Z[UTC]",
+    "searchQuery" : "santa ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-20T18:28:25.431Z[UTC]",
+    "searchQuery" : "santa te",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-20T18:28:25.698Z[UTC]",
+    "searchQuery" : "santa te",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-20T18:28:25.942Z[UTC]",
+    "searchQuery" : "santa tell",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-20T18:28:26.211Z[UTC]",
+    "searchQuery" : "santa tell",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:04.987Z[UTC]",
+    "searchQuery" : "c",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:05.254Z[UTC]",
+    "searchQuery" : "cue",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:05.323Z[UTC]",
+    "searchQuery" : "c",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:05.516Z[UTC]",
+    "searchQuery" : "cue",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:05.790Z[UTC]",
+    "searchQuery" : "cuen",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:06.017Z[UTC]",
+    "searchQuery" : "cuen",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:06.877Z[UTC]",
+    "searchQuery" : "cuent",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:07.159Z[UTC]",
+    "searchQuery" : "cuent",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:07.709Z[UTC]",
+    "searchQuery" : "cuenta",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:07.996Z[UTC]",
+    "searchQuery" : "cuenta",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:26.975Z[UTC]",
+    "searchQuery" : "p",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:27.256Z[UTC]",
+    "searchQuery" : "p",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:27.634Z[UTC]",
+    "searchQuery" : "pu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:27.926Z[UTC]",
+    "searchQuery" : "pu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:28.919Z[UTC]",
+    "searchQuery" : "pupp",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:29.182Z[UTC]",
+    "searchQuery" : "pupp",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:30.577Z[UTC]",
+    "searchQuery" : "puppy",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:30.851Z[UTC]",
+    "searchQuery" : "puppy",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:31.046Z[UTC]",
+    "searchQuery" : "puppy ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:26:31.320Z[UTC]",
+    "searchQuery" : "puppy ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:42:51.308Z[UTC]",
+    "searchQuery" : "u",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:42:51.583Z[UTC]",
+    "searchQuery" : "u",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T19:42:51.788Z[UTC]",
+    "searchQuery" : "un",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:42:51.860Z[UTC]",
+    "searchQuery" : "un",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:42:52.799Z[UTC]",
+    "searchQuery" : "under",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T19:42:53.224Z[UTC]",
+    "searchQuery" : "under",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:08.405Z[UTC]",
+    "searchQuery" : "w",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:08.667Z[UTC]",
+    "searchQuery" : "w",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T19:47:10.167Z[UTC]",
+    "searchQuery" : "e",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:10.240Z[UTC]",
+    "searchQuery" : "e",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:10.597Z[UTC]",
+    "searchQuery" : "elm ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:10.835Z[UTC]",
+    "searchQuery" : "elm ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:11.513Z[UTC]",
+    "searchQuery" : "el",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:11.789Z[UTC]",
+    "searchQuery" : "el",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:12.146Z[UTC]",
+    "searchQuery" : "el ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:12.380Z[UTC]",
+    "searchQuery" : "el ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:12.704Z[UTC]",
+    "searchQuery" : "el m",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:12.941Z[UTC]",
+    "searchQuery" : "el m",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:13.181Z[UTC]",
+    "searchQuery" : "el mu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:13.454Z[UTC]",
+    "searchQuery" : "el mu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:13.801Z[UTC]",
+    "searchQuery" : "el muc",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:14.036Z[UTC]",
+    "searchQuery" : "el muc",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:14.356Z[UTC]",
+    "searchQuery" : "el much",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:14.600Z[UTC]",
+    "searchQuery" : "el much",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:15.653Z[UTC]",
+    "searchQuery" : "el mucha",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:47:15.897Z[UTC]",
+    "searchQuery" : "el mucha",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:56:35.229Z[UTC]",
+    "searchQuery" : "q",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:56:35.477Z[UTC]",
+    "searchQuery" : "q",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:56:36.068Z[UTC]",
+    "searchQuery" : "qui",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:56:36.517Z[UTC]",
+    "searchQuery" : "qui",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:56:36.591Z[UTC]",
+    "searchQuery" : "quimi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:56:36.916Z[UTC]",
+    "searchQuery" : "quimi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:56:37.060Z[UTC]",
+    "searchQuery" : "quimica",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:56:37.419Z[UTC]",
+    "searchQuery" : "quimica",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:56:38.290Z[UTC]",
+    "searchQuery" : "quimica ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T19:56:38.565Z[UTC]",
+    "searchQuery" : "quimica ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:01:33.404Z[UTC]",
+    "searchQuery" : "ell",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:01:33.837Z[UTC]",
+    "searchQuery" : "ell",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:12:33.283Z[UTC]",
+    "searchQuery" : "v",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:12:33.816Z[UTC]",
+    "searchQuery" : "v",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:12:33.872Z[UTC]",
+    "searchQuery" : "vern",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:12:34.149Z[UTC]",
+    "searchQuery" : "vern",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:12:34.318Z[UTC]",
+    "searchQuery" : "vern ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:12:34.402Z[UTC]",
+    "searchQuery" : "vern ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:12:35.568Z[UTC]",
+    "searchQuery" : "ver",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:12:35.827Z[UTC]",
+    "searchQuery" : "ver",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:12:37.066Z[UTC]",
+    "searchQuery" : "p",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:12:37.366Z[UTC]",
+    "searchQuery" : "p",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:12:37.517Z[UTC]",
+    "searchQuery" : "pe",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:12:37.802Z[UTC]",
+    "searchQuery" : "pe",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:12:37.823Z[UTC]",
+    "searchQuery" : "ped",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:12:38.041Z[UTC]",
+    "searchQuery" : "ped",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:28:11.322Z[UTC]",
+    "searchQuery" : "b",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:28:11.559Z[UTC]",
+    "searchQuery" : "b",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:28:12.224Z[UTC]",
+    "searchQuery" : "bes",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:28:12.465Z[UTC]",
+    "searchQuery" : "bes",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:28:13.090Z[UTC]",
+    "searchQuery" : "beso",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:28:13.163Z[UTC]",
+    "searchQuery" : "beso",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:28:13.511Z[UTC]",
+    "searchQuery" : "besos ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:28:13.738Z[UTC]",
+    "searchQuery" : "besos ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:00.520Z[UTC]",
+    "searchQuery" : "<",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:00.734Z[UTC]",
+    "searchQuery" : "<",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:01.225Z[UTC]",
+    "searchQuery" : "<f",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:01.761Z[UTC]",
+    "searchQuery" : "<f",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:01.910Z[UTC]",
+    "searchQuery" : "<fun",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:02.152Z[UTC]",
+    "searchQuery" : "<fun",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:02.770Z[UTC]",
+    "searchQuery" : "<funer",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:03.058Z[UTC]",
+    "searchQuery" : "<funer",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:03.745Z[UTC]",
+    "searchQuery" : "<fune",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:04.006Z[UTC]",
+    "searchQuery" : "<fune",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:05.220Z[UTC]",
+    "searchQuery" : "f",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:05.507Z[UTC]",
+    "searchQuery" : "f",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:05.584Z[UTC]",
+    "searchQuery" : "fu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:05.838Z[UTC]",
+    "searchQuery" : "fu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:10.546Z[UTC]",
+    "searchQuery" : "fun",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:10.786Z[UTC]",
+    "searchQuery" : "fun",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:11.114Z[UTC]",
+    "searchQuery" : "fune",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:33:11.346Z[UTC]",
+    "searchQuery" : "fune",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:36:50.119Z[UTC]",
+    "searchQuery" : "da",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:36:50.360Z[UTC]",
+    "searchQuery" : "da",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:36:50.588Z[UTC]",
+    "searchQuery" : "dan",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:36:50.845Z[UTC]",
+    "searchQuery" : "dan",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:36:51.690Z[UTC]",
+    "searchQuery" : "dani",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:36:51.762Z[UTC]",
+    "searchQuery" : "dani",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:46:08.007Z[UTC]",
+    "searchQuery" : "r",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:46:08.608Z[UTC]",
+    "searchQuery" : "r",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:46:14.416Z[UTC]",
+    "searchQuery" : "w",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:46:14.637Z[UTC]",
+    "searchQuery" : "w",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:46:18.687Z[UTC]",
+    "searchQuery" : "d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:46:18.826Z[UTC]",
+    "searchQuery" : "di",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:46:18.955Z[UTC]",
+    "searchQuery" : "d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:46:19.086Z[UTC]",
+    "searchQuery" : "di",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:46:19.369Z[UTC]",
+    "searchQuery" : "dia",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:46:19.438Z[UTC]",
+    "searchQuery" : "dia",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:46:20.115Z[UTC]",
+    "searchQuery" : "diab",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:46:20.195Z[UTC]",
+    "searchQuery" : "diab",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:46:21.399Z[UTC]",
+    "searchQuery" : "diabla",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:46:21.474Z[UTC]",
+    "searchQuery" : "diabla",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:51:28.108Z[UTC]",
+    "searchQuery" : "n",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:51:28.379Z[UTC]",
+    "searchQuery" : "n",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:51:28.459Z[UTC]",
+    "searchQuery" : "ne",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:51:28.704Z[UTC]",
+    "searchQuery" : "ne",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:52:21.422Z[UTC]",
+    "searchQuery" : "a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:52:21.653Z[UTC]",
+    "searchQuery" : "as",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:52:21.701Z[UTC]",
+    "searchQuery" : "a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:52:22.079Z[UTC]",
+    "searchQuery" : "aso",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:52:22.131Z[UTC]",
+    "searchQuery" : "as",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:52:22.153Z[UTC]",
+    "searchQuery" : "aso",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:52:22.237Z[UTC]",
+    "searchQuery" : "asom",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:52:22.513Z[UTC]",
+    "searchQuery" : "asom",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:57:46.552Z[UTC]",
+    "searchQuery" : "k",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:57:47.113Z[UTC]",
+    "searchQuery" : "k",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:57:47.163Z[UTC]",
+    "searchQuery" : "ka",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:57:47.391Z[UTC]",
+    "searchQuery" : "ka",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:57:48.199Z[UTC]",
+    "searchQuery" : "kapo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:57:48.431Z[UTC]",
+    "searchQuery" : "kapo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:04.412Z[UTC]",
+    "searchQuery" : "g",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:04.667Z[UTC]",
+    "searchQuery" : "g",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:58:04.876Z[UTC]",
+    "searchQuery" : "gi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:04.949Z[UTC]",
+    "searchQuery" : "gi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:05.279Z[UTC]",
+    "searchQuery" : "gir",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:05.541Z[UTC]",
+    "searchQuery" : "gir",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:06.140Z[UTC]",
+    "searchQuery" : "giras",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:06.394Z[UTC]",
+    "searchQuery" : "giras",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:15.355Z[UTC]",
+    "searchQuery" : "geiras",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:15.694Z[UTC]",
+    "searchQuery" : "geiras",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:15.762Z[UTC]",
+    "searchQuery" : "geliras",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:16.080Z[UTC]",
+    "searchQuery" : "gel iras",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:16.103Z[UTC]",
+    "searchQuery" : "geliras",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:16.355Z[UTC]",
+    "searchQuery" : "gel iras",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:18.060Z[UTC]",
+    "searchQuery" : "gel iraso",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:18.220Z[UTC]",
+    "searchQuery" : "gel iraso",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:58:18.519Z[UTC]",
+    "searchQuery" : "gel irasol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:18.555Z[UTC]",
+    "searchQuery" : "gel irasol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:22.832Z[UTC]",
+    "searchQuery" : "gl irasol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:23.100Z[UTC]",
+    "searchQuery" : "gl irasol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:23.258Z[UTC]",
+    "searchQuery" : "g irasol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:58:23.807Z[UTC]",
+    "searchQuery" : "g irasol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:25.705Z[UTC]",
+    "searchQuery" : "girasol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:58:26.167Z[UTC]",
+    "searchQuery" : "girasol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T20:58:28.607Z[UTC]",
+    "searchQuery" : "egirasol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:28.680Z[UTC]",
+    "searchQuery" : "egirasol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:28.755Z[UTC]",
+    "searchQuery" : "elgirasol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:29.060Z[UTC]",
+    "searchQuery" : "elgirasol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:29.155Z[UTC]",
+    "searchQuery" : "el girasol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T20:58:29.582Z[UTC]",
+    "searchQuery" : "el girasol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:05:31.087Z[UTC]",
+    "searchQuery" : "ui",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:05:31.417Z[UTC]",
+    "searchQuery" : "ui",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:11:56.699Z[UTC]",
+    "searchQuery" : "u",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:11:56.959Z[UTC]",
+    "searchQuery" : "u",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:11:58.028Z[UTC]",
+    "searchQuery" : "s",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:11:58.278Z[UTC]",
+    "searchQuery" : "se",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:11:58.311Z[UTC]",
+    "searchQuery" : "s",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:11:58.546Z[UTC]",
+    "searchQuery" : "se",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:11:58.764Z[UTC]",
+    "searchQuery" : "seño",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:11:59.004Z[UTC]",
+    "searchQuery" : "seño",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:16:10.495Z[UTC]",
+    "searchQuery" : "c",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:16:10.768Z[UTC]",
+    "searchQuery" : "ca",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:16:10.825Z[UTC]",
+    "searchQuery" : "c",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:16:11.025Z[UTC]",
+    "searchQuery" : "ca",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:16:11.494Z[UTC]",
+    "searchQuery" : "can",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:16:11.679Z[UTC]",
+    "searchQuery" : "canc",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:16:11.897Z[UTC]",
+    "searchQuery" : "canc",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86_64",
+    "searchTime" : "2024-12-21T21:16:11.938Z[UTC]",
+    "searchQuery" : "can",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:16:12.149Z[UTC]",
+    "searchQuery" : "cancio",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-21T21:16:12.456Z[UTC]",
+    "searchQuery" : "cancio",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-22T02:29:06.110Z[UTC]",
+    "searchQuery" : "ne",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-22T02:29:06.397Z[UTC]",
+    "searchQuery" : "ne",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-22T02:29:06.936Z[UTC]",
+    "searchQuery" : "never",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-22T02:29:07.198Z[UTC]",
+    "searchQuery" : "never",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-22T02:29:08.615Z[UTC]",
+    "searchQuery" : "nevert",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-22T02:29:08.873Z[UTC]",
+    "searchQuery" : "nevert",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-22T02:29:10.638Z[UTC]",
+    "searchQuery" : "neverthr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-22T02:29:10.950Z[UTC]",
+    "searchQuery" : "neverthr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-22T02:35:53.228Z[UTC]",
+    "searchQuery" : "pa",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-22T02:35:53.292Z[UTC]",
+    "searchQuery" : "pa",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-22T02:35:54.370Z[UTC]",
+    "searchQuery" : "paper ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-22T02:35:54.420Z[UTC]",
+    "searchQuery" : "paper ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-22T02:35:56.275Z[UTC]",
+    "searchQuery" : "paper ha",
+    "searchInteractionURIs" : [
+      "spotify:episode:7dY9lzBsC6FBWbtonwTevs"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-22T02:36:32.473Z[UTC]",
+    "searchQuery" : "2U",
+    "searchInteractionURIs" : [
+      "spotify:search:2u+jungkook"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-22T02:36:37.468Z[UTC]",
+    "searchQuery" : "2u jungkook",
+    "searchInteractionURIs" : [
+      "spotify:playlist:2NNpSxSNYDouKhr2VVGcCk",
+      "spotify:playlist:7bA6Vsa2oKW4dfDhjp8gcT",
+      "spotify:playlist:5NzvfckRa2UBiW3yHeWXUq"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-23T01:42:35.707Z[UTC]",
+    "searchQuery" : "touch",
+    "searchInteractionURIs" : [
+      "spotify:track:6VG3H64odw9YFcvY0NUZpL",
+      "spotify:track:6aJn7Cst74cj4lNIiPRgav"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-23T09:25:19.707Z[UTC]",
+    "searchQuery" : "unde",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-23T09:25:19.775Z[UTC]",
+    "searchQuery" : "unde",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-23T09:25:21.451Z[UTC]",
+    "searchQuery" : "understand ",
+    "searchInteractionURIs" : [
+      "spotify:track:72sfmdpuO5r8cBDgs7MqZZ",
+      "spotify:track:72sfmdpuO5r8cBDgs7MqZZ"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-29T20:29:23.328Z[UTC]",
+    "searchQuery" : "ol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-12-29T20:29:23.378Z[UTC]",
+    "searchQuery" : "ol",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-29T20:29:29.709Z[UTC]",
+    "searchQuery" : "playlist ",
+    "searchInteractionURIs" : [
+      "spotify:search:playlist+de+todo"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2024-12-29T20:29:35.204Z[UTC]",
+    "searchQuery" : "playlist de todo",
+    "searchInteractionURIs" : [
+      "spotify:playlist:1iyOCwb2Lb1RkTjb9ZEEie",
+      "spotify:playlist:1Ej3zCA4JPt1Pcm6WN2iPs"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2025-01-01T03:13:08.567Z[UTC]",
+    "searchQuery" : "q",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2025-01-01T03:13:08.681Z[UTC]",
+    "searchQuery" : "q",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2025-01-01T03:13:08.774Z[UTC]",
+    "searchQuery" : "qu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2025-01-01T03:13:08.839Z[UTC]",
+    "searchQuery" : "qu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2025-01-01T03:13:08.989Z[UTC]",
+    "searchQuery" : "qui",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2025-01-01T03:13:09.050Z[UTC]",
+    "searchQuery" : "qui",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2025-01-01T03:13:12.043Z[UTC]",
+    "searchQuery" : "quien ent",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2025-01-01T03:13:12.079Z[UTC]",
+    "searchQuery" : "quien ent",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2025-01-01T03:13:15.606Z[UTC]",
+    "searchQuery" : "quien entiende ",
+    "searchInteractionURIs" : [
+      "spotify:track:5MVbhLRhOLCifhbjwVyZPX"
     ]
   }
 ]

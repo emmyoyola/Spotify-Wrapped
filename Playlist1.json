@@ -1,8 +1,2680 @@
 {
   "playlists": [
     {
+      "name": "Maybe I need a break",
+      "lastModifiedDate": "2024-12-14",
+      "items": [
+        {
+          "track": {
+            "trackName": "TOMBOY",
+            "artistName": "(G)I-DLE",
+            "albumName": "I NEVER DIE",
+            "trackUri": "spotify:track:0IGUXY4JbK18bu9oD4mPIm"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "My House",
+            "artistName": "2PM",
+            "albumName": "No.5",
+            "trackUri": "spotify:track:2r5505nza3oqcjWVlOEb77"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Youngblood",
+            "artistName": "5 Seconds of Summer",
+            "albumName": "Youngblood",
+            "trackUri": "spotify:track:2iUXsYOEPhVqEBwsqP70rE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Say Something",
+            "artistName": "A Great Big World",
+            "albumName": "Say Something",
+            "trackUri": "spotify:track:78TKtlSLWK8pZAKKW3MyQL"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "All I Ask",
+            "artistName": "Adele",
+            "albumName": "25",
+            "trackUri": "spotify:track:1wMALZpuqAy7amQsFBWQ8m"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Agust D",
+            "artistName": "Agust D",
+            "albumName": "Agust D",
+            "trackUri": "spotify:track:6AknCCsxOsrJ2mkSdCtET1"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Breaking Down",
+            "artistName": "AILEE",
+            "albumName": "Doom at Your Service (Original Television Soundtrack) Pt. 1",
+            "trackUri": "spotify:track:4qXVjZZ48aShiyCqxhkuJP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "5 Minutes",
+            "artistName": "Aiowell",
+            "albumName": "5 Minutes",
+            "trackUri": "spotify:track:5b8pE2d88tCfIQW0lB2NtC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Love Lee",
+            "artistName": "AKMU",
+            "albumName": "Love Lee",
+            "trackUri": "spotify:track:1qosh64U6CR5ki1g1Rf2dZ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "No Lo Beses",
+            "artistName": "Alejandro Fernández",
+            "albumName": "Dos Mundos - Evolución",
+            "trackUri": "spotify:track:3cX7KNREYC4NBntB6ccHHt"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Amiga mía",
+            "artistName": "Alejandro Sanz",
+            "albumName": "Más",
+            "trackUri": "spotify:track:6kQYMqjobmB8MkWwa9OUyA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "How Far I'll Go - Alessia Cara Version",
+            "artistName": "Alessia Cara",
+            "albumName": "Moana",
+            "trackUri": "spotify:track:4VM9dCaS27EvDHepAFU4XX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Flowerpot",
+            "artistName": "Alex",
+            "albumName": "My Vintage Romance",
+            "trackUri": "spotify:track:5dc5n7zyXgKcRczN69Dnd5"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "A gritos de esperanza",
+            "artistName": "Alex Ubago",
+            "albumName": "¿Qué pides tú?",
+            "trackUri": "spotify:track:3z4hLskqGLtLEYcetdtxqe"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Usted Se Me Llevo la Vida",
+            "artistName": "Alexandre Pires",
+            "albumName": "É Por Amor",
+            "trackUri": "spotify:track:1wx6JALNy9KXwndVziEUKw"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Fallin'",
+            "artistName": "Alicia Keys",
+            "albumName": "Songs In A Minor",
+            "trackUri": "spotify:track:0KQx6HOpJueiSkztcS0r7D"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Una Cita",
+            "artistName": "Alkilados",
+            "albumName": "Una Cita",
+            "trackUri": "spotify:track:1xjgLim6e8chskSPMRxp5K"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "I Need A Dollar",
+            "artistName": "Aloe Blacc",
+            "albumName": "Good Things",
+            "trackUri": "spotify:track:5OA2EQqiP7r7Zcl6nw8ICW"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Sabrá Dios",
+            "artistName": "Alvaro Carrillo",
+            "albumName": "El Maestro",
+            "trackUri": "spotify:track:1SYTt2YIfXEACmnGRDWj8o"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Quizás, Quizás, Quizás",
+            "artistName": "Andrea Bocelli",
+            "albumName": "Pasión",
+            "trackUri": "spotify:track:6ykkal4MnCob5AQxckVqj2"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Y Llegaste Tú",
+            "artistName": "Andres De Leon",
+            "albumName": "Y Llegaste Tú",
+            "trackUri": "spotify:track:1VUD6TS2dyP9zK1TNsb6YE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Embrujo",
+            "artistName": "Andrés Cepeda",
+            "albumName": "Banda Sonora",
+            "trackUri": "spotify:track:1G7ZpOpsqCKCOm0cJS0LZ4"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Tanto la Queria",
+            "artistName": "Andy & Lucas",
+            "albumName": "Andy Y Lucas",
+            "trackUri": "spotify:track:2VSGzQqy9nqJefcYGJNWst"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Do I Wanna Know?",
+            "artistName": "Arctic Monkeys",
+            "albumName": "AM",
+            "trackUri": "spotify:track:5FVd6KXrgO9B3JPmC8OPst"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Dangerous Woman",
+            "artistName": "Ariana Grande",
+            "albumName": "Dangerous Woman",
+            "trackUri": "spotify:track:3nef5W8jTkXrOKgCu4kmq7"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "MELODY",
+            "artistName": "ASH ISLAND",
+            "albumName": "ISLAND",
+            "trackUri": "spotify:track:6JeleVHUHrdvgiFESE33ZU"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Happier Than Ever",
+            "artistName": "ASTN",
+            "albumName": "Happier Than Ever",
+            "trackUri": "spotify:track:7es56D0QedGMsK39wl2yFX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Crazy Sexy Cool",
+            "artistName": "ASTRO",
+            "albumName": "Dream Part.02",
+            "trackUri": "spotify:track:4hKhWLyYwCmugcMP8vbr7s"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Deja Vu",
+            "artistName": "ATEEZ",
+            "albumName": "ZERO : FEVER Part.3",
+            "trackUri": "spotify:track:3zmrdOtnOogqLllz26WLZ3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Sweet but Psycho",
+            "artistName": "Ava Max",
+            "albumName": "Sweet but Psycho",
+            "trackUri": "spotify:track:25sgk305KZfyuqVBQIahim"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Los Infieles",
+            "artistName": "Aventura",
+            "albumName": "K.O.B. Live",
+            "trackUri": "spotify:track:0HDHY6RSHHG2ZTE0cMT4GJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Insomnia",
+            "artistName": "Kodoku",
+            "albumName": "Insomnia",
+            "trackUri": "spotify:track:37T64XB6hg4ESnCHuIeHKl"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Jetski (feat. Coogie)",
+            "artistName": "JEY",
+            "albumName": "TRACE",
+            "trackUri": "spotify:track:6HHJExAqL4NPZIEenlCRCR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "APT.",
+            "artistName": "ROSÉ",
+            "albumName": "APT.",
+            "trackUri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Hypotheticals",
+            "artistName": "Lake Street Dive",
+            "albumName": "Obviously",
+            "trackUri": "spotify:track:5lE2EFXt4muvLFMGQg4hZN"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "el vino y el tiempo",
+            "artistName": "Jaze",
+            "albumName": "el vino y el tiempo",
+            "trackUri": "spotify:track:2g7KRmUgE964Xrzv3g7yeP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "I Like U",
+            "artistName": "NIKI",
+            "albumName": "I Like U",
+            "trackUri": "spotify:track:1ctbkptXLNIoEVTNAFYV4d"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Lejos de la Ciudad - con Camilo",
+            "artistName": "Daniela Spalla",
+            "albumName": "Lejos de la Ciudad",
+            "trackUri": "spotify:track:3iDMvP8BZxE2Olorh2pWg9"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Tadow",
+            "artistName": "Masego",
+            "albumName": "Lady Lady",
+            "trackUri": "spotify:track:51rPRW8NjxZoWPPjnRGzHw"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "BTBT",
+            "artistName": "B.I",
+            "albumName": "BTBT",
+            "trackUri": "spotify:track:4XcxgZSriCYamtIA7BgT7V"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Caraluna",
+            "artistName": "Bacilos",
+            "albumName": "Grandes Exitos",
+            "trackUri": "spotify:track:4XTMj7kd8DHLl0r7ghmEAr"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "U",
+            "artistName": "BAEKHYUN",
+            "albumName": "Doom at Your Service (Original Television Soundtrack) Pt. 3",
+            "trackUri": "spotify:track:0AtHUIDAkXWgpbD0QkyKgi"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "SEXY NUKIM (feat. RM of BTS)",
+            "artistName": "Balming Tiger",
+            "albumName": "SEXY NUKIM (feat. RM of BTS)",
+            "trackUri": "spotify:track:1XkMxUilV0E3ChDERZJUEq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Ta Ta Ta (with Jason Derulo)",
+            "artistName": "Bayanni",
+            "albumName": "Ta Ta Ta (with Jason Derulo)",
+            "trackUri": "spotify:track:1LRGZESVn8eF7WVY5DzLNy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "I.F.L.Y.",
+            "artistName": "Bazzi",
+            "albumName": "Soul Searching",
+            "trackUri": "spotify:track:4a6q8CR2hzLk2plDkSxkfD"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Counting Stars (feat. Beenzino)",
+            "artistName": "BE'O",
+            "albumName": "Counting Stars (feat. Beenzino)",
+            "trackUri": "spotify:track:4cnOPnVsjkTon4RiNmWFID"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Meant to Be (feat. Florida Georgia Line)",
+            "artistName": "Bebe Rexha",
+            "albumName": "All Your Fault: Pt. 2",
+            "trackUri": "spotify:track:7iDa6hUg2VgEL1o1HjmfBn"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Cuando Te Besé",
+            "artistName": "Becky G",
+            "albumName": "Cuando Te Besé",
+            "trackUri": "spotify:track:2XXMDz7SPZ4mSFN1PXfHUy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Stand By Me",
+            "artistName": "Ben E. King",
+            "albumName": "Don't Play That Song",
+            "trackUri": "spotify:track:3SdTKo2uVsxFblQjpScoHy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Beautiful Things",
+            "artistName": "Benson Boone",
+            "albumName": "Beautiful Things",
+            "trackUri": "spotify:track:6tNQ70jh4OwmPGpYy6R2o9"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Amor Gitano",
+            "artistName": "Beyoncé",
+            "albumName": "Lo Esencial De Alejandro Fernández",
+            "trackUri": "spotify:track:0fgyal3W3WNNMkcFgAYPJ3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "BIBI Vengeance",
+            "artistName": "BIBI",
+            "albumName": "Lowlife Princess: Noir",
+            "trackUri": "spotify:track:0ra3bPUOj2YnY4FJHXtgHZ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "It’s Been a Long, Long Time",
+            "artistName": "Bing Crosby",
+            "albumName": "Bing Crosby Rediscovered: The Soundtrack",
+            "trackUri": "spotify:track:1O2ktzMR4TK4S8nXm1M3Z3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "River",
+            "artistName": "Bishop Briggs",
+            "albumName": "Church Of Scars",
+            "trackUri": "spotify:track:3mRLHiSHYtC8Hk7bzZdUs1"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Typa Girl",
+            "artistName": "BLACKPINK",
+            "albumName": "BORN PINK",
+            "trackUri": "spotify:track:0L8LOav65XwLjCLS11gNPD"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Some",
+            "artistName": "BOL4",
+            "albumName": "Red Diary Page.1",
+            "trackUri": "spotify:track:3jsYQw78lrxJA2ysnmOIf9"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Can't Take My Eyes off You",
+            "artistName": "Frankie Valli",
+            "albumName": "Solo",
+            "trackUri": "spotify:track:0bfvHnWWOeU1U5XeKyVLbW"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Leave The Door Open",
+            "artistName": "Bruno Mars",
+            "albumName": "An Evening With Silk Sonic",
+            "trackUri": "spotify:track:02VBYrHfVwfEWXk5DXyf0T"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "7PM (Feat. Peder Elias)",
+            "artistName": "BSS",
+            "albumName": "BSS 1st Single Album 'SECOND WIND'",
+            "trackUri": "spotify:track:6tAPw1Rtt3SGEOm6ohYi8l"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Pray (I'll be your man)",
+            "artistName": "BTOB",
+            "albumName": "NEW MEN",
+            "trackUri": "spotify:track:1wpshV27JxfmAApoclaNAh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Magic Shop",
+            "artistName": "BTS",
+            "albumName": "Love Yourself 結 'Answer'",
+            "trackUri": "spotify:track:37nOpaUof3d4Xsmr6moAiI"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Devuelveme La Vida",
+            "artistName": "Bustamante",
+            "albumName": "100% Éxitos - Pachangueo",
+            "trackUri": "spotify:track:0hgzHFkzhM1WP0vRbdJKfX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Mala Mujer",
+            "artistName": "C. Tangana",
+            "albumName": "Mala Mujer",
+            "trackUri": "spotify:track:6puxHBNwu2Nmm7uD3Rd2MP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Enamorándonos",
+            "artistName": "Cabas",
+            "albumName": "Enamorándonos",
+            "trackUri": "spotify:track:0hToRwOyIHYlcJ2gm8KsKH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Sirena",
+            "artistName": "Cali Y El Dandee",
+            "albumName": "Sirena",
+            "trackUri": "spotify:track:1juHIWqgFiDFAKuEBP24Lt"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Todo Cambió",
+            "artistName": "Camila",
+            "albumName": "Todo Cambio",
+            "trackUri": "spotify:track:4OyzSXRSadNQt5EMwASdap"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "My Oh My (feat. DaBaby)",
+            "artistName": "Camila Cabello",
+            "albumName": "Romance",
+            "trackUri": "spotify:track:3yOlyBJuViE2YSGn3nVE1K"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Manos de Tijera",
+            "artistName": "Camilo",
+            "albumName": "Mis Manos",
+            "trackUri": "spotify:track:2f8sB9lQ6Uh1lKKWJNR9rW"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Romantic Sunday",
+            "artistName": "Car, the garden",
+            "albumName": "Hometown Cha-Cha-Cha, Pt. 1 (Original Television Soundtrack)",
+            "trackUri": "spotify:track:16YZbdkJtyvsjV8UKOwQBB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Quién Pudiera?",
+            "artistName": "Cardellino",
+            "albumName": "Quién Pudiera?",
+            "trackUri": "spotify:track:3TWAnB0Pok8EnOLimD18ue"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Please Me",
+            "artistName": "Cardi B",
+            "albumName": "Please Me",
+            "trackUri": "spotify:track:0PG9fbaaHFHfre2gUVo7AN"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Ando buscando (feat. Piso 21)",
+            "artistName": "Carlos Baute",
+            "albumName": "Ando buscando (feat. Piso 21)",
+            "trackUri": "spotify:track:7BwJtE8KSbCQKOCTIAY3jX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Voy a Olvidarme de Mi",
+            "artistName": "Carlos Vives",
+            "albumName": "El Rock de Mi Pueblo",
+            "trackUri": "spotify:track:4LpwpxeVZUuHE46kqpXqrP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Bésame Bonito (Micro TDH Remix)",
+            "artistName": "Carmen DeLeon",
+            "albumName": "Bésame Bonito",
+            "trackUri": "spotify:track:4795j7G618M4FUwRl3wle8"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Stay With Me",
+            "artistName": "CHANYEOL",
+            "albumName": "Guardian (Original Television Soundtrack), Pt. 1",
+            "trackUri": "spotify:track:1HYzRuWjmS9LXCkdVHi25K"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Left and Right (Feat. Jung Kook of BTS)",
+            "artistName": "Charlie Puth",
+            "albumName": "Left and Right (Feat. Jung Kook of BTS)",
+            "trackUri": "spotify:track:6RhEbk4odKK0PwPhpok7h1"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "아이 (Daydream)",
+            "artistName": "CHEEZE",
+            "albumName": "선배, 그 립스틱 바르지 마요 OST Part 6",
+            "trackUri": "spotify:track:7pfhaonDVx36RMkfbmiNha"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Redbone",
+            "artistName": "Childish Gambino",
+            "albumName": "\"Awaken, My Love!\"",
+            "trackUri": "spotify:track:0WtDGnWL2KrMCk0mI1Gpwz"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Cuando Te Veo",
+            "artistName": "ChocQuibTown",
+            "albumName": "Cuando Te Veo",
+            "trackUri": "spotify:track:0AVrIKuvXPXbAgDOXHkwj9"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Baby,Baby",
+            "artistName": "CHOI SANG YEOP",
+            "albumName": "My First First Love (Original Television Soundtrack) Pt. 1",
+            "trackUri": "spotify:track:0qO8En9vACRBiJnzrJhGOR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Catalina",
+            "artistName": "Cimafunk",
+            "albumName": "Catalina",
+            "trackUri": "spotify:track:4ULCOafYh99FL7iMMEF9cc"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "WA-R-R",
+            "artistName": "Colde",
+            "albumName": "Love Part 1",
+            "trackUri": "spotify:track:1ZEFYW6nPEvIcsIvymgsLk"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "My Universe",
+            "artistName": "Coldplay",
+            "albumName": "Music Of The Spheres",
+            "trackUri": "spotify:track:46HNZY1i7O6jwTA7Slo2PI"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Heather",
+            "artistName": "Conan Gray",
+            "albumName": "Kid Krow",
+            "trackUri": "spotify:track:4xqrdfXkTW4T0RauPLv3WA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Bling-Bang-Bang-Born",
+            "artistName": "Creepy Nuts",
+            "albumName": "Bling-Bang-Bang-Born",
+            "trackUri": "spotify:track:0kdqcbwei4MDWFEX5f33yG"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "EL STICKER",
+            "artistName": "Criss & Ronny",
+            "albumName": "LA MORAL",
+            "trackUri": "spotify:track:51fjeEQR84knHbPr7aLZNA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Por Amarte Así",
+            "artistName": "Cristian Castro",
+            "albumName": "Mi Vida Sin Tu Amor",
+            "trackUri": "spotify:track:2bvO1KXbUd4vySCWGNqIIa"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Click Like (Prod. Crush) (Feat. Paul Blanco)",
+            "artistName": "Crush",
+            "albumName": "Street Woman Fighter2 (SWF2) Class Mission",
+            "trackUri": "spotify:track:3uzUBVCNTdVnmJMumFA4Ce"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Para Mi",
+            "artistName": "Cultura Profética",
+            "albumName": "Para Mi",
+            "trackUri": "spotify:track:3mUPsqEeq0GoIv1wSuivqf"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "I Do",
+            "artistName": "D.O.",
+            "albumName": "I Do",
+            "trackUri": "spotify:track:1uOFPJmg1yx3sfBqgv1JAS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Como Fue",
+            "artistName": "Dani Labbé",
+            "albumName": "De-Lirios",
+            "trackUri": "spotify:track:65K3V6TGHavLPYCEKz7TWJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Best Part (feat. H.E.R.)",
+            "artistName": "Daniel Caesar",
+            "albumName": "Freudian",
+            "trackUri": "spotify:track:1RMJOxR6GRPsBHL8qeC2ux"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Mirarte",
+            "artistName": "Daniel, Me Estás Matando",
+            "albumName": "Grandes Éxitos del Boleroglam, Vol. 2",
+            "trackUri": "spotify:track:45umrJtstitg14AzQYt0J8"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Dime tú",
+            "artistName": "Danny Ocean",
+            "albumName": "Dime tú",
+            "trackUri": "spotify:track:6z8sQFj47s9ZG0Ls1k9Gct"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Desde mi habitación",
+            "artistName": "Darviin",
+            "albumName": "Desde mi habitación",
+            "trackUri": "spotify:track:2DZ66IRklQUZ4SFLS18dym"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Dígale",
+            "artistName": "David Bisbal",
+            "albumName": "Corazon Latino",
+            "trackUri": "spotify:track:5OKrgU6UuGMp4sGRxv1JH2"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "You make Me",
+            "artistName": "DAY6",
+            "albumName": "The Book of Us: Negentropy - Chaos Swallowed up in Love",
+            "trackUri": "spotify:track:3Y4SnP9NDIjEj69mMY4NVp"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Everybody Loves Somebody",
+            "artistName": "Dean Martin",
+            "albumName": "Everybody Loves Somebody",
+            "trackUri": "spotify:track:5I9sHwLDX28tLtzVgKLtpr"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "What 2 Do",
+            "artistName": "DEAN",
+            "albumName": "130 Mood : TRBL",
+            "trackUri": "spotify:track:6GS3lnAVy5w6AHWEKYzYeS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "No Nos Sobran los Domingos (feat. Vicente García) - Versión Bachata",
+            "artistName": "Debi Nova",
+            "albumName": "No Nos Sobran los Domingos (feat. Vicente García)",
+            "trackUri": "spotify:track:1SMj7Rwk576dbbd0VsULVT"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Sorry Not Sorry",
+            "artistName": "Demi Lovato",
+            "albumName": "Sorry Not Sorry",
+            "trackUri": "spotify:track:743mWMRgafToEUJriLLgkg"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Tomboy",
+            "artistName": "Destiny Rogers",
+            "albumName": "Tomboy",
+            "trackUri": "spotify:track:5Ti3fqGTfjUsSdylFNy0Ng"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Forget About You",
+            "artistName": "Devin Kennedy",
+            "albumName": "Poetry",
+            "trackUri": "spotify:track:4dRb7kdtBVBFzSiCqsY7wP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "double take",
+            "artistName": "Dhruv",
+            "albumName": "rapunzel",
+            "trackUri": "spotify:track:0QzuaeCEEOV40Pn7IvKEny"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "ICARUS",
+            "artistName": "DINO",
+            "albumName": "CASTAWAY DIVA OST Part.3",
+            "trackUri": "spotify:track:6F3JheiZtQnzGfjbAocreQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "LOVE, MONEY, FAME (feat. DJ Khaled)",
+            "artistName": "SEVENTEEN",
+            "albumName": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS'",
+            "trackUri": "spotify:track:145tqlcE6YFsjNfxi9K3AE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Reloj ingrato - versión bolero",
+            "artistName": "Doc 3V",
+            "albumName": "Reloj ingrato",
+            "trackUri": "spotify:track:4QRf4brqa5LBvjRHKaaXwt"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Woman",
+            "artistName": "Doja Cat",
+            "albumName": "Planet Her",
+            "trackUri": "spotify:track:2ds0pWAKDaq9yz3o6rexbk"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Missed Connections",
+            "artistName": "DOKYEOM",
+            "albumName": "Tempted OST Part.3",
+            "trackUri": "spotify:track:4jAh51yhz3LUtbm1p7vOfY"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Babydoll",
+            "artistName": "Dominic Fike",
+            "albumName": "Don't Forget About Me, Demos",
+            "trackUri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Boyfriend",
+            "artistName": "Dove Cameron",
+            "albumName": "Alchemical: Volume 1",
+            "trackUri": "spotify:track:23eLvOQ3JxtdhRi9YyxRKQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Do or Die (ft. DPR IAN)",
+            "artistName": "DPR ARTIC",
+            "albumName": "KINEMA",
+            "trackUri": "spotify:track:1S5cUvGZsueP6xGMeVFHSo"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "No Blueberries",
+            "artistName": "DPR IAN",
+            "albumName": "Moodswings In This Order",
+            "trackUri": "spotify:track:4lpvCG7eNzHAXwvMxWUNjz"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Cheese & Wine",
+            "artistName": "DPR LIVE",
+            "albumName": "Coming To You Live",
+            "trackUri": "spotify:track:7EOGIqRUHjsnDFoerUgBWY"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Pasatiempo",
+            "artistName": "Dragon & Caballero",
+            "albumName": "Historias",
+            "trackUri": "spotify:track:5YCo3SemrJqy9y23iuHtyo"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "One Dance",
+            "artistName": "Drake",
+            "albumName": "Views",
+            "trackUri": "spotify:track:1xznGGDReH1oQq0xzbwXa3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Last",
+            "artistName": "Dvwn",
+            "albumName": "Dawn Defibrillation, Vol.1",
+            "trackUri": "spotify:track:41r2Q4UEDdU9cktfgQETnx"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Smoke (Prod. Dynamicduo, Padi)",
+            "artistName": "Dynamicduo",
+            "albumName": "Street Woman Fighter2 (SWF2) Class Mission",
+            "trackUri": "spotify:track:1qRfAvzRIJQodWKBNFAb6C"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Don't (feat. RM)",
+            "artistName": "eAeon",
+            "albumName": "Fragile",
+            "trackUri": "spotify:track:6KE3Fs6LMzi4hJI3eFqyLC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "September",
+            "artistName": "Earth, Wind & Fire",
+            "albumName": "September (sped up + slowed)",
+            "trackUri": "spotify:track:3kXoKlD84c6OmIcOLfrfEs"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Sudden Shower",
+            "artistName": "ECLIPSE",
+            "albumName": "Lovely Runner, Pt. 1 (Original Soundtrack)",
+            "trackUri": "spotify:track:1OhIn0L6iofnk5bjalWfHq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Shivers",
+            "artistName": "Ed Sheeran",
+            "albumName": "=",
+            "trackUri": "spotify:track:50nfwKoDiSYg8zOCREWAm5"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Que Locura Enamorarme De Ti",
+            "artistName": "Eddie Santiago",
+            "albumName": "Atrevido Y Diferente",
+            "trackUri": "spotify:track:1TMxv8sfUhU55AC6Ul1PU5"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "긴 밤이 오면",
+            "artistName": "Eddy Kim",
+            "albumName": "While You Were Sleeping, Pt. 1 (Original Television Soundtrack)",
+            "trackUri": "spotify:track:3j1RB91MFxn8oY9jYoQ36t"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Cheek To Cheek",
+            "artistName": "Ella Fitzgerald",
+            "albumName": "The Complete Ella And Louis On Verve",
+            "trackUri": "spotify:track:33jt3kYWjQzqn3xyYQ5ZEh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Grecia",
+            "artistName": "Elsa y Elmar",
+            "albumName": "Grecia",
+            "trackUri": "spotify:track:6OTGRlCpPGMpPM96g62d2R"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "River (feat. Ed Sheeran)",
+            "artistName": "Eminem",
+            "albumName": "Revival",
+            "trackUri": "spotify:track:5UEnHoDYpsxlfzWLZIc7LD"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Bite Me",
+            "artistName": "ENHYPEN",
+            "albumName": "DARK BLOOD",
+            "trackUri": "spotify:track:7mpdNiaQvygj2rHoxkzMfa"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Screen Time (Feat. Hoshi of SEVENTEEN)",
+            "artistName": "Epik High",
+            "albumName": "Screen Time",
+            "trackUri": "spotify:track:4yorFTfi9Tay8tG0NNK7vB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "永不失聯的愛",
+            "artistName": "Eric Chou",
+            "albumName": "如果雨之後",
+            "trackUri": "spotify:track:46fURCnWErjFdNM2yBJ2c8"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Wildfire",
+            "artistName": "Eric Nam",
+            "albumName": "There And Back Again",
+            "trackUri": "spotify:track:3vsfL1GdEMvoUs59KERxPx"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "KISS&TELL",
+            "artistName": "Ethan Low",
+            "albumName": "KISS&TELL",
+            "trackUri": "spotify:track:4Q9GArihbyGgtxRZ9D65Dj"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "A Sunday Kind Of Love",
+            "artistName": "Etta James",
+            "albumName": "At Last!",
+            "trackUri": "spotify:track:0zGLlXbHlrAyBN1x6sY0rb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "The Eve",
+            "artistName": "EXO",
+            "albumName": "THE WAR - The 4th Album",
+            "trackUri": "spotify:track:2ujA6F1cpk3m8lsPE5aKua"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "I'm In Love With a Monster",
+            "artistName": "Fifth Harmony",
+            "albumName": "I'm In Love With a Monster",
+            "trackUri": "spotify:track:0hO71r8vbnrXSaXVrR9ptF"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Cupid - Twin Ver.",
+            "artistName": "FIFTY FIFTY",
+            "albumName": "The Beginning: Cupid",
+            "trackUri": "spotify:track:7FbrGaHYVDmfr7KoLIZnQ7"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Hace Tiempo",
+            "artistName": "Fonseca",
+            "albumName": "Corazón",
+            "trackUri": "spotify:track:7G0Z77RdBTdf4bt45AL6yS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Fly Me To The Moon - 2008 Remastered",
+            "artistName": "Frank Sinatra",
+            "albumName": "Nothing But The Best",
+            "trackUri": "spotify:track:7FXj7Qg3YorUxdrzvrcY25"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Tu Con El",
+            "artistName": "Frankie Ruiz",
+            "albumName": "Solista Pero No Solo",
+            "trackUri": "spotify:track:3fwqOw3lzCle2zxamHMcQ2"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Unforgettable",
+            "artistName": "French Montana",
+            "albumName": "Jungle Rules",
+            "trackUri": "spotify:track:3B54sVLJ402zGa6Xm4YGNe"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Acuarela",
+            "artistName": "Fresto Music",
+            "albumName": "Trovando El Son",
+            "trackUri": "spotify:track:6LlXtbkZvtxcXeQGwtT0GR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Shinunoga E-Wa",
+            "artistName": "Fujii Kaze",
+            "albumName": "HELP EVER HURT NEVER",
+            "trackUri": "spotify:track:0o9zmvc5f3EFApU52PPIyW"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "시작",
+            "artistName": "Gaho",
+            "albumName": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
+            "trackUri": "spotify:track:5TeDIQrpwWtLWaFfzLH0hh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "boyfriend material",
+            "artistName": "Gareth.T",
+            "albumName": "to be honest",
+            "trackUri": "spotify:track:4Ef7cEjeHhh7vYBzmPq4oE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "365 (Feat. JUNNY)",
+            "artistName": "GEMINI",
+            "albumName": "In too deep",
+            "trackUri": "spotify:track:1g44dTzKW337AAReshbgUm"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Called it Love",
+            "artistName": "Gen Neo",
+            "albumName": "Called it Love",
+            "trackUri": "spotify:track:7DGEGsOUG0lbPUlymrH4uJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Shotgun",
+            "artistName": "George Ezra",
+            "albumName": "Staying at Tamara's",
+            "trackUri": "spotify:track:4ofwffwvvnbSkrMSCKQDaC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Hasta Que Vuelvas Conmigo",
+            "artistName": "Gian Marco",
+            "albumName": "Desde Adentro",
+            "trackUri": "spotify:track:10I8kdUvHxVECfEH8AyGhw"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Mi Historia Entre Tus Dedos",
+            "artistName": "Gianluca Grignani",
+            "albumName": "The Platinum Collection",
+            "trackUri": "spotify:track:3bP3RLXPFnGM4vtiXmmadq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Ella (feat. Guaco)",
+            "artistName": "Gilberto Santa Rosa",
+            "albumName": "Irrepetible",
+            "trackUri": "spotify:track:4DAkqm964djUYHyGj32LCh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Hoy - Spanish Version",
+            "artistName": "Gloria Estefan",
+            "albumName": "Amor Y Suerte (Spanish Greatest Hits)",
+            "trackUri": "spotify:track:0gwq583qFgPczMTFBCB9wu"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Tijuana Sunrise",
+            "artistName": "Goldfinger",
+            "albumName": "Tijuana Sunrise",
+            "trackUri": "spotify:track:6A0vng1rw4wppz1BZ4cuaQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Just Right",
+            "artistName": "GOT7",
+            "albumName": "Just Right",
+            "trackUri": "spotify:track:16dL6zhP5MLxEwX8sbqCOa"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Just Like The Rain",
+            "artistName": "GRAY",
+            "albumName": "Twenty-Twenty Part.2",
+            "trackUri": "spotify:track:2VQDLkUdhOOldDGZNtnv6w"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Amantes",
+            "artistName": "Greeicy",
+            "albumName": "Amantes",
+            "trackUri": "spotify:track:3IyPnNX142pvWx6D5CiimD"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Just the Two of Us",
+            "artistName": "Grover Washington, Jr.",
+            "albumName": "Winelight",
+            "trackUri": "spotify:track:5fdNHVZHbWB1AaXk4RBGVD"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Una Aventura",
+            "artistName": "Grupo Niche",
+            "albumName": "Lo Que Diga el Corazón",
+            "trackUri": "spotify:track:4kmW492tWq71LA0Alu94XC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Natural",
+            "artistName": "GSoul",
+            "albumName": "Natural",
+            "trackUri": "spotify:track:0ACt3PP22HyKfpFIV6AQUW"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Boy With Luv (feat. Halsey)",
+            "artistName": "BTS",
+            "albumName": "MAP OF THE SOUL : PERSONA",
+            "trackUri": "spotify:track:4a9tbd947vo9K8Vti9JwcI"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Morena",
+            "artistName": "Hamilton",
+            "albumName": "Morena",
+            "trackUri": "spotify:track:4X7D1GaB0LdsBjznjBXseG"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Late Night Talking",
+            "artistName": "Harry Styles",
+            "albumName": "Harry's House",
+            "trackUri": "spotify:track:1qEmFfgcLObUfQm0j1W2CK"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "And July",
+            "artistName": "Heize",
+            "albumName": "And July",
+            "trackUri": "spotify:track:0Yz3F0UGDibDe8uU69zmjn"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "It's You",
+            "artistName": "HENRY",
+            "albumName": "While You Were Sleeping, Pt. 2 (Original Television Soundtrack)",
+            "trackUri": "spotify:track:61OtYav1fiUCr73JwZD2Sb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Sabrás - Acústico",
+            "artistName": "Herencia de Timbiqui",
+            "albumName": "Al Natural",
+            "trackUri": "spotify:track:1m6tAMOxlh0WFcEoPmG5CT"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "SUNSET BOULEVARD",
+            "artistName": "HOHYUN",
+            "albumName": "SUNSET BOULEVARD",
+            "trackUri": "spotify:track:79ncKQJ3BcdjNnII5XR2lS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Spider",
+            "artistName": "HOSHI",
+            "albumName": "Spider",
+            "trackUri": "spotify:track:2TwB7aK39tnZBQjBPgcbCj"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Too Sweet",
+            "artistName": "Hozier",
+            "albumName": "Unreal Unearth: Unheard",
+            "trackUri": "spotify:track:5Z0UnEtpLDQyYlWwgi8m9C"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "love you twice",
+            "artistName": "HUH YUNJIN",
+            "albumName": "love you twice",
+            "trackUri": "spotify:track:0GLXQAdrh4tdvz0JLw8DX8"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "KINTSUGI",
+            "artistName": "HUMBE",
+            "albumName": "KINTSUGI",
+            "trackUri": "spotify:track:1qbql17v0Hazo94o5RUyWQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "I’m bad too (Feat. DPR LIVE)",
+            "artistName": "HWASA",
+            "albumName": "María",
+            "trackUri": "spotify:track:4JcfDrtQWE45N1X4MkcbiV"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Tip Toe",
+            "artistName": "HYBS",
+            "albumName": "Tip Toe",
+            "trackUri": "spotify:track:0MJ5wKsPEeihONNfugHGy7"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "I'm Not Cool",
+            "artistName": "HyunA",
+            "albumName": "I'm Not Cool",
+            "trackUri": "spotify:track:5iIpbD34k4wnuRMZDNnuWf"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "PING PONG",
+            "artistName": "HyunA&DAWN",
+            "albumName": "1+1=1",
+            "trackUri": "spotify:track:0Z99Xe1lGBmq60RwJ5YU18"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Juanito Alimaña",
+            "artistName": "Héctor Lavoe",
+            "albumName": "Vigilante",
+            "trackUri": "spotify:track:336Xdyzllb9WbJIC8XF90t"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "LOVE SCENARIO",
+            "artistName": "iKON",
+            "albumName": "Return",
+            "trackUri": "spotify:track:3d3ELsqKlQ7WA0a10Isu3l"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "NIGHT DANCER",
+            "artistName": "imase",
+            "albumName": "NIGHT DANCER",
+            "trackUri": "spotify:track:348NF6vX0Yh22xvH0EZEro"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Un Día a la Vez",
+            "artistName": "Irepelusa",
+            "albumName": "Un Koala En Una Palmera",
+            "trackUri": "spotify:track:0ZwMPMDxqAzKJ4zaHzFI9H"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Can't Love You Anymore (With OHHYUK)",
+            "artistName": "IU",
+            "albumName": "Can't Love You Anymore",
+            "trackUri": "spotify:track:4twllsTUoTAFxiVeq3bNjq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "After LIKE",
+            "artistName": "IVE",
+            "albumName": "After LIKE",
+            "trackUri": "spotify:track:2gYj9lubBorOPIVWsTXugG"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Replay",
+            "artistName": "Iyaz",
+            "albumName": "Replay",
+            "trackUri": "spotify:track:5vlEg2fT4cFWAqU5QptIpQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "No Es Justo",
+            "artistName": "J Balvin",
+            "albumName": "Vibras",
+            "trackUri": "spotify:track:5qFeMRz4TvetPmzjre9Dq7"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Lost in Time",
+            "artistName": "J'calm",
+            "albumName": "Lost in Time",
+            "trackUri": "spotify:track:36Rx6EVnvc3xInYkcQLuke"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "항상 (HANGSANG)",
+            "artistName": "j-hope",
+            "albumName": "Hope World",
+            "trackUri": "spotify:track:270k38FpoKhnvZLv50NlTr"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "LMLY",
+            "artistName": "Jackson Wang",
+            "albumName": "LMLY",
+            "trackUri": "spotify:track:3kPoV6L9vXpbxoM4Ux0KnX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Try Again",
+            "artistName": "JAEHYUN",
+            "albumName": "Try Again - SM STATION",
+            "trackUri": "spotify:track:4Sav8RLaXMBpTZX6xNPj0K"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Impossible",
+            "artistName": "James Arthur",
+            "albumName": "James Arthur (Deluxe)",
+            "trackUri": "spotify:track:5yVIlYEHZxQVLyInCdldoS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "La flaca",
+            "artistName": "Jarabe De Palo",
+            "albumName": "La Flaca",
+            "trackUri": "spotify:track:2LsbizbOeNa4x6qsi2jAMb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "I Won't Give Up",
+            "artistName": "Jason Mraz",
+            "albumName": "Love Is a Four Letter Word",
+            "trackUri": "spotify:track:5ivF4eQBqJiVL5IAE9jRyl"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "All I Wanna Do",
+            "artistName": "Jay Park",
+            "albumName": "EVERYTHING YOU WANTED",
+            "trackUri": "spotify:track:2PcJoVkfjcbvoqBxV1Nj7y"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Tu Sombra",
+            "artistName": "JENCARLOS",
+            "albumName": "Jen",
+            "trackUri": "spotify:track:4wUvpy7hVaa7AZKri6AUFe"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "You're My Garden",
+            "artistName": "JEONG EUN JI",
+            "albumName": "Strong Woman Do Bong Soon, Pt. 1 (Original Television Soundtrack)",
+            "trackUri": "spotify:track:5PlBCHCh7aCDlBBA8DoLp0"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "It`s you",
+            "artistName": "JEONG SEWOON",
+            "albumName": "Whats wrong with secretary kim OST",
+            "trackUri": "spotify:track:1MuSKl3GY0J3pLdiNjynTg"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Casi un Hechizo",
+            "artistName": "Jerry Rivera",
+            "albumName": "No Me Olvidaras",
+            "trackUri": "spotify:track:1ZYxQo0ZDNjye7ygHWJHle"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "My Romeo",
+            "artistName": "Jessi",
+            "albumName": "Cinderella & Four Knights, Pt. 2",
+            "trackUri": "spotify:track:1ZAFbcseHBmP8Ifmjmd8g1"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Blue Butterflies",
+            "artistName": "JHIN",
+            "albumName": "Blue Butterflies",
+            "trackUri": "spotify:track:1FpQ2EPJarW7rpjFGGd8Jd"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Killin’ Me Good",
+            "artistName": "JIHYO",
+            "albumName": "ZONE",
+            "trackUri": "spotify:track:4Cyf87ul1le0xTWRFBoYd7"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Promise",
+            "artistName": "Jimin",
+            "albumName": "Promise",
+            "trackUri": "spotify:track:2RUcwyW74Sv4VracHFrKdh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Secreto De Amor",
+            "artistName": "Joan Sebastian",
+            "albumName": "Lo Mejor De Joan Sebastian",
+            "trackUri": "spotify:track:4lrJ0RM15Cbc2tcSTxf8Hv"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Ella Y Tu",
+            "artistName": "Joe Arroyo",
+            "albumName": "32 Grandes Exitos",
+            "trackUri": "spotify:track:6jKs082XY08vxLAc7HIc7D"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Summer Nights - From “Grease”",
+            "artistName": "John Travolta",
+            "albumName": "Grease",
+            "trackUri": "spotify:track:2AVkArcfALVk2X8sfPRzya"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Flower",
+            "artistName": "Johnny Stimson",
+            "albumName": "Flower",
+            "trackUri": "spotify:track:547iYirskXyIJaDIniJAhn"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Mama",
+            "artistName": "Jonas Blue",
+            "albumName": "Mama",
+            "trackUri": "spotify:track:4xlrALxuaCf9yZBHJeTSG6"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "No Sé Tú",
+            "artistName": "Luis Miguel",
+            "albumName": "Romance",
+            "trackUri": "spotify:track:2DAsLftcRKP3iarCPmI1RY"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Daydreamin",
+            "artistName": "Jonathan Tilkin",
+            "albumName": "Daydreamin",
+            "trackUri": "spotify:track:4SMEVj9Ods3ukQg41vWCUy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Cuando Cuando",
+            "artistName": "José y el Toro",
+            "albumName": "Cuando Cuando",
+            "trackUri": "spotify:track:6nmIwpHOewm7OkXiB84uND"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Sólo Por Ti",
+            "artistName": "Jowell & Randy",
+            "albumName": "El Momento",
+            "trackUri": "spotify:track:58ujE3lNtea4uCKJ05gUvg"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "A Pedir Su Mano",
+            "artistName": "Juan Luis Guerra 4.40",
+            "albumName": "Bachata Rosa",
+            "trackUri": "spotify:track:5q9VC2VFj8Pak4E2jQnp7I"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Cuando Te Tengo Cerca",
+            "artistName": "Juan Pablo Vega",
+            "albumName": "Nada Personal",
+            "trackUri": "spotify:track:1m5W1oK78Dazy0oZeoxYbc"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Amárrame",
+            "artistName": "Mon Laferte",
+            "albumName": "La Trenza",
+            "trackUri": "spotify:track:3EK4tGkSiO5xvvB5sM4tln"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Fall In Love",
+            "artistName": "Jukjae",
+            "albumName": "Nevertheless, (Original Television Soundtrack, Pt. 7)",
+            "trackUri": "spotify:track:13jOUAJE5tHgidRLrmSpO5"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Algo Está Cambiando",
+            "artistName": "Julieta Venegas",
+            "albumName": "Si",
+            "trackUri": "spotify:track:7mJG18yZGq0aXKWNtK3FQf"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Reminiscencias",
+            "artistName": "Julio Jaramillo",
+            "albumName": "El Ruiseñor de America",
+            "trackUri": "spotify:track:0D337qdSUzMPXmrW20Mn5L"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Me Hiciste Sufrir",
+            "artistName": "Julio Meza",
+            "albumName": "Luchando",
+            "trackUri": "spotify:track:5WPLpBouhe9UztxfMnJfJs"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Standing Next to You",
+            "artistName": "Jung Kook",
+            "albumName": "GOLDEN",
+            "trackUri": "spotify:track:2KslE17cAJNHTsI2MI0jb2"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Day & Night",
+            "artistName": "Jung Seung Hwan",
+            "albumName": "START-UP (Original Television Soundtrack) Pt. 2",
+            "trackUri": "spotify:track:0JlYPewyE0Cs5rkUCsWqgy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "warm",
+            "artistName": "Junggigo",
+            "albumName": "warm",
+            "trackUri": "spotify:track:0mk9lGk7y9HpnoaAllUfmv"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Butterfly",
+            "artistName": "JUNHA PARK",
+            "albumName": "Nevertheless, (Original Drama Soundtrack, Pt. 4)",
+            "trackUri": "spotify:track:62PaY0S6h9UofRsMiesevo"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "MOVIE",
+            "artistName": "JUNNY",
+            "albumName": "MOVIE",
+            "trackUri": "spotify:track:51kQvG4aghW17VSZKkfxTp"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Stuck with U (with Justin Bieber)",
+            "artistName": "Ariana Grande",
+            "albumName": "Stuck with U",
+            "trackUri": "spotify:track:4HBZA5flZLE435QTztThqH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "SexyBack (feat. Timbaland)",
+            "artistName": "Justin Timberlake",
+            "albumName": "FutureSex/LoveSounds",
+            "trackUri": "spotify:track:0O45fw2L5vsWpdsOdXwNAR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "this is what falling in love feels like",
+            "artistName": "JVKE",
+            "albumName": "this is what ____ feels like (Vol. 1-4)",
+            "trackUri": "spotify:track:2PWTZV5znjLtZC5T1EVJvL"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Beso",
+            "artistName": "Jósean Log",
+            "albumName": "Háblate de Mí",
+            "trackUri": "spotify:track:4PpuZIMmeng6qPicveSI22"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
       "name": "Jazz...",
-      "lastModifiedDate": "2024-11-15",
+      "lastModifiedDate": "2024-12-13",
       "items": [
         {
           "track": {
@@ -231,6 +2903,18 @@
           "audiobook": null,
           "localTrack": null,
           "addedDate": "2024-11-15"
+        },
+        {
+          "track": {
+            "trackName": "I Think They Call This Love",
+            "artistName": "Elliot James Reay",
+            "albumName": "I Think They Call This Love",
+            "trackUri": "spotify:track:4oHQ8n9OKQ3599e8noCrDX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-13"
         }
       ],
       "description": null,
@@ -238,7 +2922,7 @@
     },
     {
       "name": "Cultura profetica",
-      "lastModifiedDate": "2024-11-13",
+      "lastModifiedDate": "2024-12-11",
       "items": [
         {
           "track": {
@@ -419,6 +3103,30 @@
           "audiobook": null,
           "localTrack": null,
           "addedDate": "2024-11-13"
+        },
+        {
+          "track": {
+            "trackName": "Sin Ti (feat. La Vida Bohème)",
+            "artistName": "Rawayana",
+            "albumName": "Sin Ti (feat. La Vida Bohème)",
+            "trackUri": "spotify:track:6vLZeNQlHhvJyiUBEzlUQB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-11"
+        },
+        {
+          "track": {
+            "trackName": "el vino y el tiempo",
+            "artistName": "Jaze",
+            "albumName": "el vino y el tiempo",
+            "trackUri": "spotify:track:2g7KRmUgE964Xrzv3g7yeP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-11"
         }
       ],
       "description": null,
@@ -602,7 +3310,7 @@
     },
     {
       "name": "Youngblood",
-      "lastModifiedDate": "2024-02-11",
+      "lastModifiedDate": "2024-12-16",
       "items": [
         {
           "track": {
@@ -646,18 +3354,6 @@
             "artistName": "Alessia Cara",
             "albumName": "Moana",
             "trackUri": "spotify:track:4VM9dCaS27EvDHepAFU4XX"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2024-02-11"
-        },
-        {
-          "track": {
-            "trackName": "Is That For Me",
-            "artistName": "Alesso",
-            "albumName": "Is That For Me",
-            "trackUri": "spotify:track:2KwojFDebQV4J2b0JMRR5Q"
           },
           "episode": null,
           "audiobook": null,
@@ -730,18 +3426,6 @@
             "artistName": "Ariana Grande",
             "albumName": "thank u, next",
             "trackUri": "spotify:track:2hloaUoRonYssMuqLCBLTX"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2024-02-11"
-        },
-        {
-          "track": {
-            "trackName": "Dangerous Woman",
-            "artistName": "Ariana Grande",
-            "albumName": "Dangerous Woman",
-            "trackUri": "spotify:track:2h1IPjP471JJRSShTHRUhi"
           },
           "episode": null,
           "audiobook": null,
@@ -826,18 +3510,6 @@
             "artistName": "Bishop Briggs",
             "albumName": "Church Of Scars",
             "trackUri": "spotify:track:3mRLHiSHYtC8Hk7bzZdUs1"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2024-02-11"
-        },
-        {
-          "track": {
-            "trackName": "Can't Take My Eyes Off You - Original Extended Version",
-            "artistName": "Boys Town Gang",
-            "albumName": "Disc Charge",
-            "trackUri": "spotify:track:566U7bjbnK0I3RxObVVpA9"
           },
           "episode": null,
           "audiobook": null,
@@ -1110,18 +3782,6 @@
         },
         {
           "track": {
-            "trackName": "One Kiss (with Dua Lipa)",
-            "artistName": "Calvin Harris",
-            "albumName": "One Kiss (with Dua Lipa)",
-            "trackUri": "spotify:track:7ef4DlsgrMEH11cDZd32M6"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2024-02-11"
-        },
-        {
-          "track": {
             "trackName": "Havana (feat. Young Thug)",
             "artistName": "Camila Cabello",
             "albumName": "Havana (feat. Young Thug)",
@@ -1302,18 +3962,6 @@
         },
         {
           "track": {
-            "trackName": "God's Plan",
-            "artistName": "Drake",
-            "albumName": "Scorpion",
-            "trackUri": "spotify:track:6DCZcSspjsKoFjzjrWoCdn"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2024-02-11"
-        },
-        {
-          "track": {
             "trackName": "In My Feelings",
             "artistName": "Drake",
             "albumName": "Scorpion",
@@ -1330,18 +3978,6 @@
             "artistName": "Drake",
             "albumName": "Views",
             "trackUri": "spotify:track:1xznGGDReH1oQq0xzbwXa3"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2024-02-11"
-        },
-        {
-          "track": {
-            "trackName": "New Rules",
-            "artistName": "Dua Lipa",
-            "albumName": "Dua Lipa",
-            "trackUri": "spotify:track:2ekn2ttSfGqwhhate0LSR0"
           },
           "episode": null,
           "audiobook": null,
@@ -1918,18 +4554,6 @@
             "artistName": "Jason Derulo",
             "albumName": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
             "trackUri": "spotify:track:6kex4EBAj0WHXDKZMEJaaF"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2024-02-11"
-        },
-        {
-          "track": {
-            "trackName": "Ni Tú Ni Yo (feat. Gente de Zona)",
-            "artistName": "Jennifer Lopez",
-            "albumName": "Ni Tú Ni Yo (feat. Gente de Zona)",
-            "trackUri": "spotify:track:5xMzazov0IHYllrc8U2K6F"
           },
           "episode": null,
           "audiobook": null,
@@ -2754,18 +5378,6 @@
         },
         {
           "track": {
-            "trackName": "No Lie",
-            "artistName": "Sean Paul",
-            "albumName": "No Lie",
-            "trackUri": "spotify:track:3cFsmM51N5zMAuu1nNY4Tw"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2024-02-11"
-        },
-        {
-          "track": {
             "trackName": "Fallin' All In You",
             "artistName": "Shawn Mendes",
             "albumName": "Shawn Mendes",
@@ -2883,6 +5495,18 @@
           "audiobook": null,
           "localTrack": null,
           "addedDate": "2024-02-11"
+        },
+        {
+          "track": {
+            "trackName": "Can't Take My Eyes off You",
+            "artistName": "Frankie Valli",
+            "albumName": "Solo",
+            "trackUri": "spotify:track:0bfvHnWWOeU1U5XeKyVLbW"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-02"
         }
       ],
       "description": null,
@@ -4110,7 +6734,7 @@
     },
     {
       "name": "BTS",
-      "lastModifiedDate": "2024-07-04",
+      "lastModifiedDate": "2024-12-22",
       "items": [
         {
           "track": {
@@ -5563,6 +8187,17 @@
           "audiobook": null,
           "localTrack": null,
           "addedDate": "2024-07-04"
+        },
+        {
+          "track": null,
+          "episode": {
+            "episodeName": "Paper hearts - Jung kook",
+            "showName": "bangtanbzness",
+            "episodeUri": "spotify:episode:7dY9lzBsC6FBWbtonwTevs"
+          },
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-22"
         }
       ],
       "description": null,
@@ -5570,7 +8205,7 @@
     },
     {
       "name": "SVT",
-      "lastModifiedDate": "2024-10-22",
+      "lastModifiedDate": "2024-12-12",
       "items": [
         {
           "track": {
@@ -6334,7 +8969,7 @@
     },
     {
       "name": "BTS Solo",
-      "lastModifiedDate": "2024-07-04",
+      "lastModifiedDate": "2024-12-22",
       "items": [
         {
           "track": {
@@ -7175,6 +9810,17 @@
           "audiobook": null,
           "localTrack": null,
           "addedDate": "2024-07-04"
+        },
+        {
+          "track": null,
+          "episode": {
+            "episodeName": "Paper hearts - Jung kook",
+            "showName": "bangtanbzness",
+            "episodeUri": "spotify:episode:7dY9lzBsC6FBWbtonwTevs"
+          },
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-22"
         }
       ],
       "description": null,
@@ -7182,7 +9828,7 @@
     },
     {
       "name": "Varias",
-      "lastModifiedDate": "2023-12-17",
+      "lastModifiedDate": "2025-01-01",
       "items": [
         {
           "track": {
@@ -7330,94 +9976,10 @@
         },
         {
           "track": {
-            "trackName": "Busca Por Dentro",
-            "artistName": "Grupo Niche",
-            "albumName": "The Best",
-            "trackUri": "spotify:track:2uJyG7lhmZ8bFrbVVlc6AH"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-12-17"
-        },
-        {
-          "track": {
             "trackName": "Eres",
             "artistName": "Grupo Niche",
             "albumName": "A Prueba De Fuego",
             "trackUri": "spotify:track:1aBJ5ljG2GalxEl01vQn04"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-12-17"
-        },
-        {
-          "track": {
-            "trackName": "Gotas De Lluvia",
-            "artistName": "Grupo Niche",
-            "albumName": "20th Anniversary",
-            "trackUri": "spotify:track:6sna5KCgNbt1ciZtVJCjzx"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-12-17"
-        },
-        {
-          "track": {
-            "trackName": "Hagamos Lo Que Diga El Corazón",
-            "artistName": "Grupo Niche",
-            "albumName": "The Best",
-            "trackUri": "spotify:track:5NR1LYf16E6K5t5AeSYP8P"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-12-17"
-        },
-        {
-          "track": {
-            "trackName": "La Magia De Tus Besos",
-            "artistName": "Grupo Niche",
-            "albumName": "Siempre Una Aventura",
-            "trackUri": "spotify:track:3nBQUOFwVZumOzzSV3h2sw"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-12-17"
-        },
-        {
-          "track": {
-            "trackName": "Nuestro Sueño",
-            "artistName": "Grupo Niche",
-            "albumName": "The Best",
-            "trackUri": "spotify:track:0g9d2hcBECm8eOuxG9w5kH"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-12-17"
-        },
-        {
-          "track": {
-            "trackName": "Sin Sentimientos",
-            "artistName": "Grupo Niche",
-            "albumName": "The Best",
-            "trackUri": "spotify:track:4ubwzNjqHGaZZ5k06PDx1H"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-12-17"
-        },
-        {
-          "track": {
-            "trackName": "Una Aventura",
-            "artistName": "Grupo Niche",
-            "albumName": "The Best",
-            "trackUri": "spotify:track:26ucR33snMkRD6JExhoD6I"
           },
           "episode": null,
           "audiobook": null,
@@ -7987,6 +10549,54 @@
           "audiobook": null,
           "localTrack": null,
           "addedDate": "2023-12-17"
+        },
+        {
+          "track": {
+            "trackName": "La Que Se Fue, Se Fue! - Version Album",
+            "artistName": "Felipe Peláez",
+            "albumName": "Mas Que Palabras",
+            "trackUri": "spotify:track:0FwVRoHLcSHu72HFucnmdk"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Ella Es Mi Todo",
+            "artistName": "Kaleth Morales",
+            "albumName": "Unico",
+            "trackUri": "spotify:track:7ynTwByYTgs1UsWoQvWdvI"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Me La Juego Toda",
+            "artistName": "Kaleth Morales",
+            "albumName": "Super Exitos Del Vallenato Kaleth Morales",
+            "trackUri": "spotify:track:7yZ9R1pssssAux19uiXMQM"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Quien Entiende Este Amor",
+            "artistName": "Galy Galiano",
+            "albumName": "Serie Platino",
+            "trackUri": "spotify:track:5MVbhLRhOLCifhbjwVyZPX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-01-01"
         }
       ],
       "description": null,
@@ -7994,7 +10604,7 @@
     },
     {
       "name": "Workout playlist",
-      "lastModifiedDate": "2024-05-09",
+      "lastModifiedDate": "2024-12-14",
       "items": [
         {
           "track": {
@@ -8590,18 +11200,6 @@
             "artistName": "BTS",
             "albumName": "Love Yourself 轉 'Tear'",
             "trackUri": "spotify:track:0wqqe8k13bJPxRt7FEmnwS"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-11-04"
-        },
-        {
-          "track": {
-            "trackName": "MORE",
-            "artistName": "j-hope",
-            "albumName": "MORE",
-            "trackUri": "spotify:track:4XKXphKH76W4zNpkgFS5o2"
           },
           "episode": null,
           "audiobook": null,
@@ -10257,7 +12855,7 @@
     },
     {
       "name": "Salsa...",
-      "lastModifiedDate": "2024-11-16",
+      "lastModifiedDate": "2025-01-01",
       "items": [
         {
           "track": {
@@ -10393,94 +12991,10 @@
         },
         {
           "track": {
-            "trackName": "Busca Por Dentro",
-            "artistName": "Grupo Niche",
-            "albumName": "The Best",
-            "trackUri": "spotify:track:2uJyG7lhmZ8bFrbVVlc6AH"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-11-04"
-        },
-        {
-          "track": {
             "trackName": "Eres",
             "artistName": "Grupo Niche",
             "albumName": "A Prueba De Fuego",
             "trackUri": "spotify:track:1aBJ5ljG2GalxEl01vQn04"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-11-04"
-        },
-        {
-          "track": {
-            "trackName": "Gotas De Lluvia",
-            "artistName": "Grupo Niche",
-            "albumName": "20th Anniversary",
-            "trackUri": "spotify:track:6sna5KCgNbt1ciZtVJCjzx"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-11-04"
-        },
-        {
-          "track": {
-            "trackName": "Hagamos Lo Que Diga El Corazón",
-            "artistName": "Grupo Niche",
-            "albumName": "The Best",
-            "trackUri": "spotify:track:5NR1LYf16E6K5t5AeSYP8P"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-11-04"
-        },
-        {
-          "track": {
-            "trackName": "La Magia De Tus Besos",
-            "artistName": "Grupo Niche",
-            "albumName": "Siempre Una Aventura",
-            "trackUri": "spotify:track:3nBQUOFwVZumOzzSV3h2sw"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-11-04"
-        },
-        {
-          "track": {
-            "trackName": "Nuestro Sueño",
-            "artistName": "Grupo Niche",
-            "albumName": "The Best",
-            "trackUri": "spotify:track:0g9d2hcBECm8eOuxG9w5kH"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-11-04"
-        },
-        {
-          "track": {
-            "trackName": "Sin Sentimientos",
-            "artistName": "Grupo Niche",
-            "albumName": "The Best",
-            "trackUri": "spotify:track:4ubwzNjqHGaZZ5k06PDx1H"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-11-04"
-        },
-        {
-          "track": {
-            "trackName": "Una Aventura",
-            "artistName": "Grupo Niche",
-            "albumName": "The Best",
-            "trackUri": "spotify:track:26ucR33snMkRD6JExhoD6I"
           },
           "episode": null,
           "audiobook": null,
@@ -11065,18 +13579,6 @@
         },
         {
           "track": {
-            "trackName": "Casi un Hechizo",
-            "artistName": "Jerry Rivera",
-            "albumName": "Cuenta Conmigo",
-            "trackUri": "spotify:track:4rHczyhBZ53pLWgn6edWfB"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2024-10-11"
-        },
-        {
-          "track": {
             "trackName": "Será Qué SÍ",
             "artistName": "Maelo Ruiz",
             "albumName": "En Tiempo De Amor",
@@ -11170,6 +13672,90 @@
           "audiobook": null,
           "localTrack": null,
           "addedDate": "2024-11-16"
+        },
+        {
+          "track": {
+            "trackName": "La Magia de Tus Besos",
+            "artistName": "Grupo Niche",
+            "albumName": "Lo Que Diga el Corazón",
+            "trackUri": "spotify:track:3fqa7EHPTlURvvqNTdCH3x"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Sin Sentimiento",
+            "artistName": "Grupo Niche",
+            "albumName": "Cielo De Tambores",
+            "trackUri": "spotify:track:0xv6hhmkF4XLzG87mNA1ia"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Una Aventura",
+            "artistName": "Grupo Niche",
+            "albumName": "Lo Que Diga el Corazón",
+            "trackUri": "spotify:track:4kmW492tWq71LA0Alu94XC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Hagamos Lo Que Diga el Corazón",
+            "artistName": "Grupo Niche",
+            "albumName": "Lo Que Diga el Corazón",
+            "trackUri": "spotify:track:2fVRo9q6cLC0XxDhDRDcuo"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Busca por Dentro",
+            "artistName": "Grupo Niche",
+            "albumName": "Cielo De Tambores",
+            "trackUri": "spotify:track:69V4O3qwDn7JnJB8PiD6WH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Gotas de Lluvia",
+            "artistName": "Grupo Niche",
+            "albumName": "Huellas Del Pasado",
+            "trackUri": "spotify:track:4VISfslkBeQRQIL5oph6kA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Quien Entiende Este Amor",
+            "artistName": "Galy Galiano",
+            "albumName": "Serie Platino",
+            "trackUri": "spotify:track:5MVbhLRhOLCifhbjwVyZPX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-01-01"
         }
       ],
       "description": null,
@@ -11177,7 +13763,7 @@
     },
     {
       "name": "Bonito",
-      "lastModifiedDate": "2024-11-12",
+      "lastModifiedDate": "2024-12-14",
       "items": [
         {
           "track": {
@@ -13089,18 +15675,6 @@
         },
         {
           "track": {
-            "trackName": "Fantasías",
-            "artistName": "El HueyCoyote",
-            "albumName": "Fantasías",
-            "trackUri": "spotify:track:5eHegIfGPku1Jo70rRzv6k"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2024-06-11"
-        },
-        {
-          "track": {
             "trackName": "Un violinista en tu tejado",
             "artistName": "Melendi",
             "albumName": "Aún Más Curiosa La Cara De Tu Padre",
@@ -13581,30 +16155,6 @@
         },
         {
           "track": {
-            "trackName": "Desde mi habitación",
-            "artistName": "Darviin",
-            "albumName": "Desde mi habitación",
-            "trackUri": "spotify:track:2DZ66IRklQUZ4SFLS18dym"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2024-10-03"
-        },
-        {
-          "track": {
-            "trackName": "Sabrás - Acústico",
-            "artistName": "Herencia de Timbiqui",
-            "albumName": "Al Natural",
-            "trackUri": "spotify:track:1m6tAMOxlh0WFcEoPmG5CT"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2024-10-02"
-        },
-        {
-          "track": {
             "trackName": "Yo Sólo Nado Contigo",
             "artistName": "Manuel Medrano",
             "albumName": "Manuel Medrano",
@@ -13674,6 +16224,78 @@
           "audiobook": null,
           "localTrack": null,
           "addedDate": "2024-11-12"
+        },
+        {
+          "track": {
+            "trackName": "atravesao",
+            "artistName": "Elsa y Elmar",
+            "albumName": "ya no somos los mismos",
+            "trackUri": "spotify:track:6ZQau5OYmv8C3iZb8WUQLF"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-21"
+        },
+        {
+          "track": {
+            "trackName": "Desde mi habitación",
+            "artistName": "Darviin",
+            "albumName": "Desde mi habitación",
+            "trackUri": "spotify:track:2DZ66IRklQUZ4SFLS18dym"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-21"
+        },
+        {
+          "track": {
+            "trackName": "Vuelve por Favor",
+            "artistName": "Mon Laferte",
+            "albumName": "Tornasol",
+            "trackUri": "spotify:track:5j35m0VodPLiRxfG3fmTSP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-07"
+        },
+        {
+          "track": {
+            "trackName": "Usted Se Me Llevo la Vida",
+            "artistName": "Alexandre Pires",
+            "albumName": "É Por Amor",
+            "trackUri": "spotify:track:1wx6JALNy9KXwndVziEUKw"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-11"
+        },
+        {
+          "track": {
+            "trackName": "el vino y el tiempo",
+            "artistName": "Jaze",
+            "albumName": "el vino y el tiempo",
+            "trackUri": "spotify:track:2g7KRmUgE964Xrzv3g7yeP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Ella (feat. Guaco)",
+            "artistName": "Gilberto Santa Rosa",
+            "albumName": "Irrepetible",
+            "trackUri": "spotify:track:4DAkqm964djUYHyGj32LCh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-12"
         }
       ],
       "description": null,
@@ -13681,7 +16303,7 @@
     },
     {
       "name": "Romanticas...",
-      "lastModifiedDate": "2024-11-03",
+      "lastModifiedDate": "2024-12-14",
       "items": [
         {
           "track": {
@@ -14181,18 +16803,6 @@
             "artistName": "Gianluca Grignani",
             "albumName": "The Platinum Collection",
             "trackUri": "spotify:track:3bP3RLXPFnGM4vtiXmmadq"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-11-04"
-        },
-        {
-          "track": {
-            "trackName": "Hasta Que Vuelvas Conmigo",
-            "artistName": "Gian Marco",
-            "albumName": "Desde Adentro",
-            "trackUri": "spotify:track:35rUb89FgL1BBF9YdVVhKB"
           },
           "episode": null,
           "audiobook": null,
@@ -15381,7 +17991,7 @@
     },
     {
       "name": "K",
-      "lastModifiedDate": "2024-11-14",
+      "lastModifiedDate": "2024-12-27",
       "items": [
         {
           "track": {
@@ -16913,18 +19523,6 @@
             "artistName": "Eric Chou",
             "albumName": "如果雨之後",
             "trackUri": "spotify:track:46fURCnWErjFdNM2yBJ2c8"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-11-04"
-        },
-        {
-          "track": {
-            "trackName": "Don't Leave Yet",
-            "artistName": "Eric Nam",
-            "albumName": "Don't Leave Yet",
-            "trackUri": "spotify:track:2YGLz59p5T0CMXeceMltiD"
           },
           "episode": null,
           "audiobook": null,
@@ -20557,18 +23155,6 @@
         },
         {
           "track": {
-            "trackName": "It`s you",
-            "artistName": "JEONG SEWOON",
-            "albumName": "Whats wrong with secretary kim OST Part.2",
-            "trackUri": "spotify:track:3dvPPS5KXskeRbrSY80gwt"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-11-29"
-        },
-        {
-          "track": {
             "trackName": "If It Is You",
             "artistName": "Jung Seung Hwan",
             "albumName": "Another Miss Oh, Pt. 5 (Original Television Soundtrack)",
@@ -21241,7 +23827,7 @@
         {
           "track": {
             "trackName": "And July",
-            "artistName": "HEIZE",
+            "artistName": "Heize",
             "albumName": "And July",
             "trackUri": "spotify:track:0Yz3F0UGDibDe8uU69zmjn"
           },
@@ -22413,6 +24999,161 @@
           "audiobook": null,
           "localTrack": null,
           "addedDate": "2024-11-14"
+        },
+        {
+          "track": {
+            "trackName": "girls are innocent",
+            "artistName": "slchld",
+            "albumName": "innocence",
+            "trackUri": "spotify:track:0DWxIi5kjg7JTO124LpL9q"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-20"
+        },
+        {
+          "track": {
+            "trackName": "Cheese & Wine",
+            "artistName": "DPR LIVE",
+            "albumName": "Coming To You Live",
+            "trackUri": "spotify:track:7EOGIqRUHjsnDFoerUgBWY"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-21"
+        },
+        {
+          "track": {
+            "trackName": "Can't Love You Anymore (With OHHYUK)",
+            "artistName": "IU",
+            "albumName": "Can't Love You Anymore",
+            "trackUri": "spotify:track:4twllsTUoTAFxiVeq3bNjq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-09"
+        },
+        {
+          "track": {
+            "trackName": "APT.",
+            "artistName": "ROSÉ",
+            "albumName": "APT.",
+            "trackUri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-13"
+        },
+        {
+          "track": {
+            "trackName": "Tinnitus (Wanna be a rock)",
+            "artistName": "TOMORROW X TOGETHER",
+            "albumName": "The Name Chapter: TEMPTATION",
+            "trackUri": "spotify:track:0f0SbtoKGe41cX5LzlnX6X"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-13"
+        },
+        {
+          "track": {
+            "trackName": "Don't ever say love me (feat. RM of BTS)",
+            "artistName": "Colde",
+            "albumName": "Love Part 2",
+            "trackUri": "spotify:track:4UMKAWKI1ljNHNxkmAAch0"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-19"
+        },
+        {
+          "track": {
+            "trackName": "Some (feat. Lil Boi)",
+            "artistName": "SOYOU",
+            "albumName": "Some",
+            "trackUri": "spotify:track:0g1AmSKokPboFrxmG1dxKx"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-19"
+        },
+        {
+          "track": {
+            "trackName": "Diamonds + And Pearls",
+            "artistName": "DPR LIVE",
+            "albumName": "Shang-Chi and The Legend of The Ten Rings: The Album",
+            "trackUri": "spotify:track:314oBdIvnoTPDwSP4zOP8p"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-19"
+        },
+        {
+          "track": {
+            "trackName": "Gravity",
+            "artistName": "DPR LIVE",
+            "albumName": "Gravity",
+            "trackUri": "spotify:track:5pgkM00lDqxQBTYgcsprbX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-20"
+        },
+        {
+          "track": {
+            "trackName": "Good Care",
+            "artistName": "HYBS",
+            "albumName": "Good Care",
+            "trackUri": "spotify:track:1argqjqP7b6GjGfAGiBlF8"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-20"
+        },
+        {
+          "track": null,
+          "episode": {
+            "episodeName": "Paper hearts - Jung kook",
+            "showName": "bangtanbzness",
+            "episodeUri": "spotify:episode:7dY9lzBsC6FBWbtonwTevs"
+          },
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-22"
+        },
+        {
+          "track": {
+            "trackName": "Touch (ft. YEONJUN of TOMORROW X TOGETHER)",
+            "artistName": "KATSEYE",
+            "albumName": "Touch (ft. YEONJUN of TOMORROW X TOGETHER)",
+            "trackUri": "spotify:track:6VG3H64odw9YFcvY0NUZpL"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-23"
+        },
+        {
+          "track": {
+            "trackName": "DANGEROUS",
+            "artistName": "kasper",
+            "albumName": "DANGEROUS",
+            "trackUri": "spotify:track:3NiiNdZtYGpUnpsUbLG13Y"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-27"
         }
       ],
       "description": null,
@@ -22420,7 +25161,7 @@
     },
     {
       "name": "Slow mood",
-      "lastModifiedDate": "2024-11-10",
+      "lastModifiedDate": "2024-12-19",
       "items": [
         {
           "track": {
@@ -22860,18 +25601,6 @@
             "artistName": "BAEKHYUN",
             "albumName": "낭만닥터 김사부 2 (Original Television Soundtrack) Pt.1",
             "trackUri": "spotify:track:2KhNgn4w8LHxn3ybLoofh4"
-          },
-          "episode": null,
-          "audiobook": null,
-          "localTrack": null,
-          "addedDate": "2023-11-04"
-        },
-        {
-          "track": {
-            "trackName": "It`s you",
-            "artistName": "JEONG SEWOON",
-            "albumName": "Whats wrong with secretary kim OST Part.2",
-            "trackUri": "spotify:track:3dvPPS5KXskeRbrSY80gwt"
           },
           "episode": null,
           "audiobook": null,
@@ -23417,6 +26146,30 @@
           "audiobook": null,
           "localTrack": null,
           "addedDate": "2024-11-10"
+        },
+        {
+          "track": {
+            "trackName": "Can't Love You Anymore (With OHHYUK)",
+            "artistName": "IU",
+            "albumName": "Can't Love You Anymore",
+            "trackUri": "spotify:track:4twllsTUoTAFxiVeq3bNjq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-09"
+        },
+        {
+          "track": {
+            "trackName": "Some (feat. Lil Boi)",
+            "artistName": "SOYOU",
+            "albumName": "Some",
+            "trackUri": "spotify:track:0g1AmSKokPboFrxmG1dxKx"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-19"
         }
       ],
       "description": null,
@@ -23424,7 +26177,7 @@
     },
     {
       "name": "R&B...",
-      "lastModifiedDate": "2024-11-18",
+      "lastModifiedDate": "2024-12-27",
       "items": [
         {
           "track": {
@@ -24317,7 +27070,7 @@
         {
           "track": {
             "trackName": "And July",
-            "artistName": "HEIZE",
+            "artistName": "Heize",
             "albumName": "And July",
             "trackUri": "spotify:track:0Yz3F0UGDibDe8uU69zmjn"
           },
@@ -25177,6 +27930,210 @@
           "audiobook": null,
           "localTrack": null,
           "addedDate": "2024-11-18"
+        },
+        {
+          "track": {
+            "trackName": "girls are innocent",
+            "artistName": "slchld",
+            "albumName": "innocence",
+            "trackUri": "spotify:track:0DWxIi5kjg7JTO124LpL9q"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-20"
+        },
+        {
+          "track": {
+            "trackName": "Cheese & Wine",
+            "artistName": "DPR LIVE",
+            "albumName": "Coming To You Live",
+            "trackUri": "spotify:track:7EOGIqRUHjsnDFoerUgBWY"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-21"
+        },
+        {
+          "track": {
+            "trackName": "17",
+            "artistName": "Pink Sweat$",
+            "albumName": "PINK PLANET",
+            "trackUri": "spotify:track:0jPi9DvJsr1Pm3DXAMFQww"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-27"
+        },
+        {
+          "track": {
+            "trackName": "풀어",
+            "artistName": "DEAN",
+            "albumName": "130 Mood : TRBL",
+            "trackUri": "spotify:track:2p980qlVXYLh3HdHusbhfa"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-06"
+        },
+        {
+          "track": {
+            "trackName": "NASA",
+            "artistName": "DEAN",
+            "albumName": "3:33",
+            "trackUri": "spotify:track:2y3opu08ybnMRziQFdvcZv"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-06"
+        },
+        {
+          "track": {
+            "trackName": "Ctrl",
+            "artistName": "DEAN",
+            "albumName": "3:33",
+            "trackUri": "spotify:track:3BxWRi8BjQquBqW6zbpQxJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-06"
+        },
+        {
+          "track": {
+            "trackName": "Sometimes I'm",
+            "artistName": "DPR IAN",
+            "albumName": "Moodswings In To Order",
+            "trackUri": "spotify:track:3jxJsU6iTR8bmf3mbq2avt"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-06"
+        },
+        {
+          "track": {
+            "trackName": "Call Me",
+            "artistName": "WayV",
+            "albumName": "FREQUENCY - The 6th Mini Album",
+            "trackUri": "spotify:track:6lmEozWswCzaSr6SS3Klsq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-06"
+        },
+        {
+          "track": {
+            "trackName": "Tadow",
+            "artistName": "Masego",
+            "albumName": "Lady Lady",
+            "trackUri": "spotify:track:51rPRW8NjxZoWPPjnRGzHw"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-10"
+        },
+        {
+          "track": {
+            "trackName": "Hypotheticals",
+            "artistName": "Lake Street Dive",
+            "albumName": "Obviously",
+            "trackUri": "spotify:track:5lE2EFXt4muvLFMGQg4hZN"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-13"
+        },
+        {
+          "track": {
+            "trackName": "Jetski (feat. Coogie)",
+            "artistName": "JEY",
+            "albumName": "TRACE",
+            "trackUri": "spotify:track:6HHJExAqL4NPZIEenlCRCR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-13"
+        },
+        {
+          "track": {
+            "trackName": "Insomnia",
+            "artistName": "Kodoku",
+            "albumName": "Insomnia",
+            "trackUri": "spotify:track:37T64XB6hg4ESnCHuIeHKl"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-13"
+        },
+        {
+          "track": {
+            "trackName": "Diamonds + And Pearls",
+            "artistName": "DPR LIVE",
+            "albumName": "Shang-Chi and The Legend of The Ten Rings: The Album",
+            "trackUri": "spotify:track:314oBdIvnoTPDwSP4zOP8p"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-19"
+        },
+        {
+          "track": {
+            "trackName": "Gravity",
+            "artistName": "DPR LIVE",
+            "albumName": "Gravity",
+            "trackUri": "spotify:track:5pgkM00lDqxQBTYgcsprbX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-20"
+        },
+        {
+          "track": {
+            "trackName": "Good Care",
+            "artistName": "HYBS",
+            "albumName": "Good Care",
+            "trackUri": "spotify:track:1argqjqP7b6GjGfAGiBlF8"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-20"
+        },
+        {
+          "track": {
+            "trackName": "Comme des Garçons",
+            "artistName": "Jiwoo",
+            "albumName": "Maison",
+            "trackUri": "spotify:track:0i2mhiiHucVjXuywKdLniL"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-20"
+        },
+        {
+          "track": {
+            "trackName": "DANGEROUS",
+            "artistName": "kasper",
+            "albumName": "DANGEROUS",
+            "trackUri": "spotify:track:3NiiNdZtYGpUnpsUbLG13Y"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-27"
         }
       ],
       "description": null,

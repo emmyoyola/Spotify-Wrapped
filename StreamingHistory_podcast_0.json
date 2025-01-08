@@ -1,71 +1,5 @@
 [
   {
-    "endTime" : "2023-12-05 05:33",
-    "podcastName" : "Koya sleep music",
-    "episodeName" : "music for sleep koya",
-    "msPlayed" : 21777
-  },
-  {
-    "endTime" : "2023-12-05 05:33",
-    "podcastName" : "Koya sleep music",
-    "episodeName" : "music for sleep koya",
-    "msPlayed" : 3600195
-  },
-  {
-    "endTime" : "2023-12-06 05:08",
-    "podcastName" : "Koya sleep music",
-    "episodeName" : "music for sleep koya",
-    "msPlayed" : 3583764
-  },
-  {
-    "endTime" : "2023-12-06 05:18",
-    "podcastName" : "Koya sleep music",
-    "episodeName" : "music for sleep koya",
-    "msPlayed" : 25255
-  },
-  {
-    "endTime" : "2023-12-07 17:54",
-    "podcastName" : "YT",
-    "episodeName" : "DDAENG (땡)",
-    "msPlayed" : 121690
-  },
-  {
-    "endTime" : "2023-12-07 17:55",
-    "podcastName" : "Radio Ambulante",
-    "episodeName" : "El misterio de los fósiles",
-    "msPlayed" : 0
-  },
-  {
-    "endTime" : "2023-12-11 02:04",
-    "podcastName" : "YT",
-    "episodeName" : "DDAENG (땡)",
-    "msPlayed" : 115964
-  },
-  {
-    "endTime" : "2023-12-12 19:10",
-    "podcastName" : "YT",
-    "episodeName" : "DDAENG (땡)",
-    "msPlayed" : 236964
-  },
-  {
-    "endTime" : "2023-12-12 19:12",
-    "podcastName" : "Una vida a tu medida",
-    "episodeName" : "#53: De diseñador web a cerdo estratega — Arturo García",
-    "msPlayed" : 84855
-  },
-  {
-    "endTime" : "2023-12-13 23:32",
-    "podcastName" : "YT",
-    "episodeName" : "DDAENG (땡)",
-    "msPlayed" : 236964
-  },
-  {
-    "endTime" : "2023-12-14 23:38",
-    "podcastName" : "YT",
-    "episodeName" : "DDAENG (땡)",
-    "msPlayed" : 236964
-  },
-  {
     "endTime" : "2024-01-16 00:54",
     "podcastName" : "YT",
     "episodeName" : "DDAENG (땡)",
@@ -135,13 +69,13 @@
     "endTime" : "2024-04-24 05:19",
     "podcastName" : "Koya sleep music",
     "episodeName" : "music for sleep koya",
-    "msPlayed" : 23771
+    "msPlayed" : 3579088
   },
   {
     "endTime" : "2024-04-24 05:19",
     "podcastName" : "Koya sleep music",
     "episodeName" : "music for sleep koya",
-    "msPlayed" : 3579088
+    "msPlayed" : 23771
   },
   {
     "endTime" : "2024-04-24 05:29",
@@ -213,25 +147,25 @@
     "endTime" : "2024-06-28 13:28",
     "podcastName" : "Aleja y La Grúa PODCAST",
     "episodeName" : "EP191 Profesiones | Show en Vivo Barranquilla | Y la VaJJ consultando",
-    "msPlayed" : 7218
+    "msPlayed" : 0
   },
   {
     "endTime" : "2024-06-28 13:28",
     "podcastName" : "Aleja y La Grúa PODCAST",
     "episodeName" : "EP191 Profesiones | Show en Vivo Barranquilla | Y la VaJJ consultando",
-    "msPlayed" : 0
-  },
-  {
-    "endTime" : "2024-07-24 14:43",
-    "podcastName" : "Tatan y Maleja ",
-    "episodeName" : "Ep 1 - Vamos a incomodarnos",
-    "msPlayed" : 0
+    "msPlayed" : 7218
   },
   {
     "endTime" : "2024-07-24 14:43",
     "podcastName" : "Tatan y Maleja ",
     "episodeName" : "Ep 1 - Vamos a incomodarnos",
     "msPlayed" : 15250
+  },
+  {
+    "endTime" : "2024-07-24 14:43",
+    "podcastName" : "Tatan y Maleja ",
+    "episodeName" : "Ep 1 - Vamos a incomodarnos",
+    "msPlayed" : 0
   },
   {
     "endTime" : "2024-07-24 14:50",
@@ -357,25 +291,25 @@
     "endTime" : "2024-11-03 14:34",
     "podcastName" : "La cuarta es la vencida",
     "episodeName" : "100. Transforma la queja",
-    "msPlayed" : 1184
+    "msPlayed" : 0
   },
   {
     "endTime" : "2024-11-03 14:34",
     "podcastName" : "La cuarta es la vencida",
     "episodeName" : "100. Transforma la queja",
-    "msPlayed" : 0
-  },
-  {
-    "endTime" : "2024-11-03 16:30",
-    "podcastName" : "La cuarta es la vencida",
-    "episodeName" : "100. Transforma la queja",
-    "msPlayed" : 355
+    "msPlayed" : 1184
   },
   {
     "endTime" : "2024-11-03 16:30",
     "podcastName" : "La cuarta es la vencida",
     "episodeName" : "100. Transforma la queja",
     "msPlayed" : 162
+  },
+  {
+    "endTime" : "2024-11-03 16:30",
+    "podcastName" : "La cuarta es la vencida",
+    "episodeName" : "100. Transforma la queja",
+    "msPlayed" : 355
   },
   {
     "endTime" : "2024-11-03 17:32",
@@ -418,5 +352,311 @@
     "podcastName" : "Salud Mental✨ con Alan Disavia",
     "episodeName" : "Hipnosis para dormir profundamente 🪄✨",
     "msPlayed" : 1373396
+  },
+  {
+    "endTime" : "2024-11-19 22:11",
+    "podcastName" : "Tu amiga psicóloga",
+    "episodeName" : "Aprende a respirar para calmar tu mente y cuerpo",
+    "msPlayed" : 46899
+  },
+  {
+    "endTime" : "2024-11-19 22:14",
+    "podcastName" : "Tu amiga psicóloga",
+    "episodeName" : "Aprende a respirar para calmar tu mente y cuerpo",
+    "msPlayed" : 8143
+  },
+  {
+    "endTime" : "2024-11-19 22:14",
+    "podcastName" : "Tu amiga psicóloga",
+    "episodeName" : "Aprende a respirar para calmar tu mente y cuerpo",
+    "msPlayed" : 2446
+  },
+  {
+    "endTime" : "2024-11-19 23:15",
+    "podcastName" : "Tu amiga psicóloga",
+    "episodeName" : "Aprende a respirar para calmar tu mente y cuerpo",
+    "msPlayed" : 1896
+  },
+  {
+    "endTime" : "2024-11-19 23:15",
+    "podcastName" : "Tu amiga psicóloga",
+    "episodeName" : "Aprende a respirar para calmar tu mente y cuerpo",
+    "msPlayed" : 12032
+  },
+  {
+    "endTime" : "2024-11-19 23:28",
+    "podcastName" : "Tu amiga psicóloga",
+    "episodeName" : "Aprende a respirar para calmar tu mente y cuerpo",
+    "msPlayed" : 9566
+  },
+  {
+    "endTime" : "2024-11-19 23:46",
+    "podcastName" : "Tu amiga psicóloga",
+    "episodeName" : "Aprende a respirar para calmar tu mente y cuerpo",
+    "msPlayed" : 1518
+  },
+  {
+    "endTime" : "2024-11-19 23:56",
+    "podcastName" : "Tu amiga psicóloga",
+    "episodeName" : "Aprende a respirar para calmar tu mente y cuerpo",
+    "msPlayed" : 6
+  },
+  {
+    "endTime" : "2024-11-20 13:13",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "Descubre lo que la inteligencia artificial puede hacer para mejorar tus relaciones (chat-gpt)",
+    "msPlayed" : 523
+  },
+  {
+    "endTime" : "2024-11-20 13:29",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "Descubre lo que la inteligencia artificial puede hacer para mejorar tus relaciones (chat-gpt)",
+    "msPlayed" : 8266
+  },
+  {
+    "endTime" : "2024-11-20 13:29",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "Descubre lo que la inteligencia artificial puede hacer para mejorar tus relaciones (chat-gpt)",
+    "msPlayed" : 2072
+  },
+  {
+    "endTime" : "2024-11-27 01:16",
+    "podcastName" : "LIBRE&LOCA",
+    "episodeName" : "EP. 148: El Carrusel de la vida.",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2024-11-27 12:19",
+    "podcastName" : "LIBRE&LOCA",
+    "episodeName" : "EP. 148: El Carrusel de la vida.",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2024-11-27 12:20",
+    "podcastName" : "LIBRE&LOCA",
+    "episodeName" : "EP. 148: El Carrusel de la vida.",
+    "msPlayed" : 60000
+  },
+  {
+    "endTime" : "2024-11-28 12:43",
+    "podcastName" : "No hay Banderas en Marte",
+    "episodeName" : "COLOMBIA NO ES EL MEJOR PAÍS, ES EL QUE MÁS QUIERO | EP. 078. PIRRY",
+    "msPlayed" : 2315
+  },
+  {
+    "endTime" : "2024-11-29 01:12",
+    "podcastName" : "MICRODOSIS DE AMOR PROPIO",
+    "episodeName" : "Conectar con mis ángeles, ¡me salvó la vida!",
+    "msPlayed" : 1223
+  },
+  {
+    "endTime" : "2024-11-29 12:45",
+    "podcastName" : "MICRODOSIS DE AMOR PROPIO",
+    "episodeName" : "Conectar con mis ángeles, ¡me salvó la vida!",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2024-11-29 13:34",
+    "podcastName" : "MICRODOSIS DE AMOR PROPIO",
+    "episodeName" : "Conectar con mis ángeles, ¡me salvó la vida!",
+    "msPlayed" : 11301
+  },
+  {
+    "endTime" : "2024-11-29 16:22",
+    "podcastName" : "MICRODOSIS DE AMOR PROPIO",
+    "episodeName" : "Conectar con mis ángeles, ¡me salvó la vida!",
+    "msPlayed" : 1471
+  },
+  {
+    "endTime" : "2024-11-30 00:57",
+    "podcastName" : "MICRODOSIS DE AMOR PROPIO",
+    "episodeName" : "Conectar con mis ángeles, ¡me salvó la vida!",
+    "msPlayed" : 969
+  },
+  {
+    "endTime" : "2024-12-01 00:03",
+    "podcastName" : "No hay Banderas en Marte",
+    "episodeName" : "COLOMBIA NO ES EL MEJOR PAÍS, ES EL QUE MÁS QUIERO | EP. 078. PIRRY",
+    "msPlayed" : 6672
+  },
+  {
+    "endTime" : "2024-12-01 00:03",
+    "podcastName" : "No hay Banderas en Marte",
+    "episodeName" : "COLOMBIA NO ES EL MEJOR PAÍS, ES EL QUE MÁS QUIERO | EP. 078. PIRRY",
+    "msPlayed" : 293
+  },
+  {
+    "endTime" : "2024-12-01 00:03",
+    "podcastName" : "No hay Banderas en Marte",
+    "episodeName" : "COLOMBIA NO ES EL MEJOR PAÍS, ES EL QUE MÁS QUIERO | EP. 078. PIRRY",
+    "msPlayed" : 1675
+  },
+  {
+    "endTime" : "2024-12-01 02:09",
+    "podcastName" : "No hay Banderas en Marte",
+    "episodeName" : "COLOMBIA NO ES EL MEJOR PAÍS, ES EL QUE MÁS QUIERO | EP. 078. PIRRY",
+    "msPlayed" : 5386
+  },
+  {
+    "endTime" : "2024-12-01 17:45",
+    "podcastName" : "No hay Banderas en Marte",
+    "episodeName" : "COLOMBIA NO ES EL MEJOR PAÍS, ES EL QUE MÁS QUIERO | EP. 078. PIRRY",
+    "msPlayed" : 2009
+  },
+  {
+    "endTime" : "2024-12-15 02:35",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "PSICÓLOGO EXPERTO Revela los Mejores Consejos para Superar un Duelo ",
+    "msPlayed" : 1515
+  },
+  {
+    "endTime" : "2024-12-15 02:43",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "PSICÓLOGO EXPERTO Revela los Mejores Consejos para Superar un Duelo ",
+    "msPlayed" : 308
+  },
+  {
+    "endTime" : "2024-12-15 02:43",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "PSICÓLOGO EXPERTO Revela los Mejores Consejos para Superar un Duelo ",
+    "msPlayed" : 618
+  },
+  {
+    "endTime" : "2024-12-15 14:36",
+    "podcastName" : "El podcast de MAPI HERMIDA",
+    "episodeName" : "150. El amor eterno no existe con Enrique Rojas",
+    "msPlayed" : 2360
+  },
+  {
+    "endTime" : "2024-12-15 14:36",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "PSICÓLOGO EXPERTO Revela los Mejores Consejos para Superar un Duelo ",
+    "msPlayed" : 691
+  },
+  {
+    "endTime" : "2024-12-15 22:46",
+    "podcastName" : "El podcast de MAPI HERMIDA",
+    "episodeName" : "150. El amor eterno no existe con Enrique Rojas",
+    "msPlayed" : 257
+  },
+  {
+    "endTime" : "2024-12-16 00:46",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "PSICÓLOGO EXPERTO Revela los Mejores Consejos para Superar un Duelo ",
+    "msPlayed" : 1306
+  },
+  {
+    "endTime" : "2024-12-16 16:13",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "PSICÓLOGO EXPERTO Revela los Mejores Consejos para Superar un Duelo ",
+    "msPlayed" : 59999
+  },
+  {
+    "endTime" : "2024-12-17 12:48",
+    "podcastName" : "Diario de un humano",
+    "episodeName" : "Diario de Diego Cazada: Conocí mi esencia gracias al deporte",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2024-12-17 13:10",
+    "podcastName" : "Diario de un humano",
+    "episodeName" : "Diario de Diego Cazada: Conocí mi esencia gracias al deporte",
+    "msPlayed" : 1163
+  },
+  {
+    "endTime" : "2024-12-17 13:13",
+    "podcastName" : "Diario de un humano",
+    "episodeName" : "Diario de Diego Cazada: Conocí mi esencia gracias al deporte",
+    "msPlayed" : 7375
+  },
+  {
+    "endTime" : "2024-12-17 14:46",
+    "podcastName" : "Diario de un humano",
+    "episodeName" : "Diario de Diego Cazada: Conocí mi esencia gracias al deporte",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2024-12-17 22:25",
+    "podcastName" : "Diario de un humano",
+    "episodeName" : "Diario de Diego Cazada: Conocí mi esencia gracias al deporte",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2024-12-18 12:35",
+    "podcastName" : "Diario de un humano",
+    "episodeName" : "Diario de Diego Cazada: Conocí mi esencia gracias al deporte",
+    "msPlayed" : 0
+  },
+  {
+    "endTime" : "2024-12-22 02:36",
+    "podcastName" : "bangtanbzness",
+    "episodeName" : "Paper hearts - Jung kook",
+    "msPlayed" : 610
+  },
+  {
+    "endTime" : "2024-12-22 02:44",
+    "podcastName" : "bangtanbzness",
+    "episodeName" : "Paper hearts - Jung kook",
+    "msPlayed" : 17030
+  },
+  {
+    "endTime" : "2024-12-28 12:24",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "Poner límites, la clave para unas relaciones más SANAS (Expertos en comunicación no violenta)",
+    "msPlayed" : 3788
+  },
+  {
+    "endTime" : "2024-12-28 12:55",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "Poner límites, la clave para unas relaciones más SANAS (Expertos en comunicación no violenta)",
+    "msPlayed" : 899
+  },
+  {
+    "endTime" : "2024-12-28 14:51",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "Poner límites, la clave para unas relaciones más SANAS (Expertos en comunicación no violenta)",
+    "msPlayed" : 2939
+  },
+  {
+    "endTime" : "2024-12-28 16:09",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "Poner límites, la clave para unas relaciones más SANAS (Expertos en comunicación no violenta)",
+    "msPlayed" : 1168
+  },
+  {
+    "endTime" : "2024-12-28 16:24",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "Poner límites, la clave para unas relaciones más SANAS (Expertos en comunicación no violenta)",
+    "msPlayed" : 8257
+  },
+  {
+    "endTime" : "2024-12-28 16:42",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "Poner límites, la clave para unas relaciones más SANAS (Expertos en comunicación no violenta)",
+    "msPlayed" : 6832
+  },
+  {
+    "endTime" : "2024-12-28 16:56",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "Poner límites, la clave para unas relaciones más SANAS (Expertos en comunicación no violenta)",
+    "msPlayed" : 59912
+  },
+  {
+    "endTime" : "2024-12-28 23:33",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "Poner límites, la clave para unas relaciones más SANAS (Expertos en comunicación no violenta)",
+    "msPlayed" : 59990
+  },
+  {
+    "endTime" : "2024-12-29 15:37",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "Poner límites, la clave para unas relaciones más SANAS (Expertos en comunicación no violenta)",
+    "msPlayed" : 2906
+  },
+  {
+    "endTime" : "2024-12-29 20:29",
+    "podcastName" : "Sobran Las Palabras Podcast",
+    "episodeName" : "Poner límites, la clave para unas relaciones más SANAS (Expertos en comunicación no violenta)",
+    "msPlayed" : 3323
   }
 ]
